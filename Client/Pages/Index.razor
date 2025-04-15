@@ -1,0 +1,16 @@
+@page "/"
+
+@attribute [Authorize]
+<PageTitle>Index</PageTitle>
+<RadzenRow Style="height: 475px; width: 1412px; display: flex">
+    <RadzenCard Style="width: 676px">
+        <RadzenChart></RadzenChart>
+    </RadzenCard>
+    <RadzenCard Style="width: 430px; margin-left: 200px">
+        
+        <RadzenGravatar Email= "@Security.User.Name" Style="width: 187px; height: 187px; float: none; vertical-align: middle"></RadzenGravatar>
+        <RadzenText Text="@Security.User.UserName" Style="width: 409px; height: 49px; font-size: 25px; text-align: center"/>
+        <RadzenText Text="@Security.User.Email" Style="width: 409px; height: 49px; font-size: 25px; text-align: center"/>
+        
+    </RadzenCard>
+</RadzenRow>

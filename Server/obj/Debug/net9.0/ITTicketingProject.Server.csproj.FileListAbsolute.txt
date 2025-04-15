@@ -1,0 +1,507 @@
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ITTicketingProject.Client.staticwebassets.runtime.json
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ITTicketingProject.Client.staticwebassets.endpoints.json
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\appsettings.json
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ITTicketingProject.Server.staticwebassets.runtime.json
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ITTicketingProject.Server.staticwebassets.endpoints.json
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ITTicketingProject.Server.exe
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ITTicketingProject.Server.deps.json
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ITTicketingProject.Server.runtimeconfig.json
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ITTicketingProject.Server.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ITTicketingProject.Server.pdb
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Components.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.JSInterop.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Radzen.Blazor.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ITTicketingProject.Client.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ITTicketingProject.Client.pdb
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\ITTicketingProject.Server.csproj.AssemblyReference.cache
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\ITTicketingProject.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\ITTicketingProject.Server.AssemblyInfoInputs.cache
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\ITTicketingProject.Server.AssemblyInfo.cs
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\ITTicketingProject.Server.csproj.CoreCompileInputs.cache
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\ITTicketingProject.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\scopedcss\bundle\ITTicketingProject.Server.styles.css
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\t8kfz0jwhf-f9yvf3g7j5.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\puhzzxxpds-796b73bq82.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\tpbz3kwmi1-a5szytxnku.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\lajis6h9q2-x6merli1rk.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\s9otf05z8q-22pb44itlf.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\fp7uetamp1-pblx1qaqft.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\hzxay3wjwu-557e8lceon.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\4tfzvf9qks-9fpk6led9e.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\r9w1mufl9l-7bt2cgjiuc.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\i1901ftr2x-kp0ueqs315.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\f32kn295nz-gcvjxldlff.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\7loyu8qflm-3xkrxjfff6.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\8xxpis6xwy-yl5enzacr2.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\6xh1zr7h5f-97p5ymuvm4.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\powbpjfyyb-z4od4ipeg7.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\pzgdy3kbkl-yei6q65i6b.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\staticwebassets\msbuild.ITTicketingProject.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\staticwebassets\msbuild.ITTicketingProject.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\staticwebassets\msbuild.build.ITTicketingProject.Server.props
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ITTicketingProject.Server.props
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ITTicketingProject.Server.props
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\ITTicket.D19E9651.Up2Date
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\ITTicketingProject.Server.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\refint\ITTicketingProject.Server.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\ITTicketingProject.Server.pdb
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\ITTicketingProject.Server.genruntimeconfig.cache
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\ref\ITTicketingProject.Server.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Humanizer.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.AspNetCore.OData.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.OData.Core.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.OData.Edm.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.OData.ModelBuilder.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Spatial.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.Formats.Asn1.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.Net.Http.Json.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.Text.Json.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\ITTicketingProject.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\c1kki6wrpy-eaxwiip01l.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\13w5d5gf1p-uep9m5znj5.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\e8lwkmfe8l-82i5lptt95.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\o7ej72sj20-694weqbulw.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\vp43n8brm6-7phhwnwcb3.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\3mkt4spddn-uovsl99zyg.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\6o9s175gvo-t2tj0mdl23.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\1i7dq2ynh3-0tw9agb519.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\ljz8shcmxy-23xurjnrfo.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\hhff85vxhh-4okqlxs0j8.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\umq7d7hlv3-a5xh95l9x5.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\tk49g4xv5u-j3fhuytizu.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\4d1o7blez5-jntdxv60nd.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\iziymon70z-lbv5ynps20.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\gkqy78lw9w-mxvpyvvbde.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\63oc1n27oy-jtemwrpvl7.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\pzoc9euazt-u4jnvrhry3.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\a9qr3lfjcz-5lurhetwsl.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\6crp8u0vy1-mb55eqrl34.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\tyl999z8ld-sqx4d4j8mr.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\6xb9o06z95-olx7shkz6a.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\t2tvocn0z4-ygx6itvxiv.gz
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.AspNetCore.HeaderPropagation.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\katie\OneDrive\Documents\Radzen\Server\obj\Debug\net9.0\compressed\s9o7qes82m-0mydhwezuy.gz
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\appsettings.json
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.FileFormats.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.NET.WebAssembly.Webcil.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\BlazorDebugProxy\Microsoft.SymbolStore.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ITTicketingProject.Client.staticwebassets.runtime.json
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ITTicketingProject.Client.staticwebassets.endpoints.json
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ITTicketingProject.Server.staticwebassets.runtime.json
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ITTicketingProject.Server.staticwebassets.endpoints.json
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ITTicketingProject.Server.exe
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ITTicketingProject.Server.deps.json
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ITTicketingProject.Server.runtimeconfig.json
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ITTicketingProject.Server.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ITTicketingProject.Server.pdb
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Azure.Core.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Azure.Identity.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\DocumentFormat.OpenXml.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Humanizer.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Components.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Authorization.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Components.WebAssembly.Authentication.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.AspNetCore.HeaderPropagation.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.AspNetCore.OData.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.Configuration.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.Http.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.JSInterop.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.OData.Core.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.OData.Edm.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.OData.ModelBuilder.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Spatial.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\Radzen.Blazor.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\System.ClientModel.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\System.Composition.Convention.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\System.Composition.Hosting.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\System.Composition.Runtime.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\System.Composition.TypedParts.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\System.IO.Packaging.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\System.Memory.Data.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\System.Runtime.Caching.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ITTicketingProject.Client.dll
+C:\Users\JT Frazier\Documents\ticket\Server\bin\Debug\net9.0\ITTicketingProject.Client.pdb
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\ITTicketingProject.Server.csproj.AssemblyReference.cache
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\ITTicketingProject.Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\ITTicketingProject.Server.AssemblyInfoInputs.cache
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\ITTicketingProject.Server.AssemblyInfo.cs
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\ITTicketingProject.Server.csproj.CoreCompileInputs.cache
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\ITTicketingProject.Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\ITTicketingProject.Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\scopedcss\bundle\ITTicketingProject.Server.styles.css
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\c1kki6wrpy-ss60w0fmxt.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\13w5d5gf1p-w70r3nyaxt.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\t8kfz0jwhf-f9yvf3g7j5.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\e8lwkmfe8l-05k8babd8i.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\o7ej72sj20-vh2eeakxt6.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\puhzzxxpds-796b73bq82.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\vp43n8brm6-a1qfz2nqb0.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\3mkt4spddn-2p1sdy84ws.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\6o9s175gvo-p96eez4ttt.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\1i7dq2ynh3-twuhk909ls.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\tpbz3kwmi1-a5szytxnku.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\lajis6h9q2-x6merli1rk.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\ljz8shcmxy-hx4iv3ehh3.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\hhff85vxhh-jiik7zoezf.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\umq7d7hlv3-2zv8p0dhcd.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\tk49g4xv5u-vdm3h3zg7v.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\s9otf05z8q-22pb44itlf.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\fp7uetamp1-pblx1qaqft.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\4d1o7blez5-mauj4zo2wr.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\iziymon70z-y8tc8znric.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\gkqy78lw9w-x1wamc071r.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\63oc1n27oy-bfmwpemhuq.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\hzxay3wjwu-557e8lceon.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\4tfzvf9qks-9fpk6led9e.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\pzoc9euazt-3mtknvnbrn.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\a9qr3lfjcz-75slixg1sc.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\6crp8u0vy1-e6nsjw0te8.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\tyl999z8ld-xy8fujatzi.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\r9w1mufl9l-7bt2cgjiuc.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\i1901ftr2x-kp0ueqs315.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\6xb9o06z95-olx7shkz6a.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\t2tvocn0z4-ygx6itvxiv.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\f32kn295nz-gcvjxldlff.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\7loyu8qflm-3xkrxjfff6.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\8xxpis6xwy-yl5enzacr2.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\6xh1zr7h5f-97p5ymuvm4.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\powbpjfyyb-z4od4ipeg7.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\pzgdy3kbkl-yei6q65i6b.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\staticwebassets\msbuild.ITTicketingProject.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\staticwebassets\msbuild.ITTicketingProject.Server.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\staticwebassets\msbuild.build.ITTicketingProject.Server.props
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.ITTicketingProject.Server.props
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.ITTicketingProject.Server.props
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\ITTicket.D19E9651.Up2Date
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\ITTicketingProject.Server.dll
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\refint\ITTicketingProject.Server.dll
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\ITTicketingProject.Server.pdb
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\ITTicketingProject.Server.genruntimeconfig.cache
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\ref\ITTicketingProject.Server.dll
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\s9o7qes82m-0mme5bsuz3.gz
