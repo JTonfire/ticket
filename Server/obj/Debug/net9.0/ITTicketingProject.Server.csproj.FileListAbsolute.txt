@@ -504,4 +504,5 @@ C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\refint\ITTicketingP
 C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\ITTicketingProject.Server.pdb
 C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\ITTicketingProject.Server.genruntimeconfig.cache
 C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\ref\ITTicketingProject.Server.dll
-C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\s9o7qes82m-0mme5bsuz3.gz
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\ITTicketingProject.Server.sourcelink.json
+C:\Users\JT Frazier\Documents\ticket\Server\obj\Debug\net9.0\compressed\s9o7qes82m-vmg075dcgb.gz

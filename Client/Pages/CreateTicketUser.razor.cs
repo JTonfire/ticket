@@ -8,10 +8,13 @@ using Microsoft.AspNetCore.Components.Web;
 using Radzen;
 using Radzen.Blazor;
 
+
+
 namespace ITTicketingProject.Client.Pages
 {
     public partial class CreateTicketUser
     {
+        //Injections
         [Inject]
         protected IJSRuntime JSRuntime { get; set; }
 
@@ -33,17 +36,31 @@ namespace ITTicketingProject.Client.Pages
         [Inject]
         protected SecurityService Security { get; set;}
 
+        [Inject]
+        protected TicketingDBService DBService {get; set;}
+
+        //Ticket variable to hold ticket information for new ticket
         protected ITTicketingProject.Server.Models.TicketingDB.Ticket ticket;
 
-        protected string problemDesc;
-        protected string location;
-        protected string phone;
-        protected string email;
+        //When page loads make a new ticket
+        protected override async Task OnInitializedAsync()
+        {
+            ticket = new Server.Models.TicketingDB.Ticket();
+        }
 
+        //When the submit button is clicked get all information then push it to DB
         protected async System.Threading.Tasks.Task Button0Click(Microsoft.AspNetCore.Components.Web.MouseEventArgs args)
         {
+            //Test information
+            ticket.AffectedUser = 1;
+            ticket.Owner = 2;
+            ticket.Status = "test";
+            ticket.TicketId = 4;
+            ticket.Description = "test";
             
-            
+            //Wait for the DB to create the new ticket
+            await DBService.CreateTicket(ticket);
+
             
              
         }

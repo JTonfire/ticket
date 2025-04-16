@@ -21,8 +21,6 @@ namespace ITTicketingProject.Server.Data
         protected override void OnModelCreating(ModelBuilder builder)
         {
             base.OnModelCreating(builder);
-
-            builder.Entity<ITTicketingProject.Server.Models.TicketingDB.Ticket>().HasNoKey();
             this.OnModelBuilding(builder);
         }
 

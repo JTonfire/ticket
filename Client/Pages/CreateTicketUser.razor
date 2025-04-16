@@ -8,17 +8,14 @@
         <RadzenText Text="Create Ticket User" TextStyle="TextStyle.H3" TagName="TagName.H1" />
         <RadzenText Text="Problem Description" TextStyle="Radzen.Blazor.TextStyle.Body1"/>
     </RadzenColumn>
-    <RadzenTextBox Style="width: 286px; height: 79px" Name="ProblemDescriptionTextBox" @bind-Value="ProblemDescriptionText"></RadzenTextBox>
+    <RadzenTextBox Style="width: 286px; height: 79px" Name="ProblemDescriptionTextBox" @bind-Value="ticket.Description"></RadzenTextBox>
 </RadzenRow>
 <RadzenColumn Style="width: 656px; height: 247px">
 <RadzenText Text="Location">
-    Text
+    
 </RadzenText>
-<RadzenTextBox Name="LocationTextBox" @bind-Value="LocationText"></RadzenTextBox>
-<RadzenText Text="Phone Number" />
     <RadzenContextMenu></RadzenContextMenu>
-    <RadzenTextBox Name="PhoneNumberTextBox" @bind-Value="PhoneText"></RadzenTextBox>
-    <RadzenText Text="E-mail" />
-    <RadzenTextBox Name="EmailTextBox" @bind-Value="EmailText"></RadzenTextBox>
+   
+    
 </RadzenColumn>
 <RadzenButton Text="Create Ticket" Click="@Button0Click"></RadzenButton>
