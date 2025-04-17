@@ -1,5 +1,5 @@
 self.assetsManifest = {
-  "version": "r3hdXZc+",
+  "version": "OlP9EhBi",
   "assets": [
     {
       "hash": "sha256-kJXKqRCleT/Jk1wJUhUu24r2LAA7IWVYmdoENizE38M=",
@@ -150,12 +150,12 @@ self.assetsManifest = {
       "url": "_content/Radzen.Blazor/fonts/SourceSans3VF-Upright.ttf.woff2"
     },
     {
-      "hash": "sha256-iKyHJlIWZe4GXv9oi7iXXD9alLO81we6vlbeneLSeYM=",
-      "url": "_framework/ITTicketingProject.Client.0qyvnl008r.pdb"
+      "hash": "sha256-kdpU+pL3cDCpvVzwxRlYEMmBOiPyLteTBpgnX23J+Xc=",
+      "url": "_framework/ITTicketingProject.Client.7astp2nm07.wasm"
     },
     {
-      "hash": "sha256-cXmCFHgKx5Ll1j6cmxr720x1Oi7eqB0B99/CfDWOf8k=",
-      "url": "_framework/ITTicketingProject.Client.bham8ogxyq.wasm"
+      "hash": "sha256-kzVN/L2OjPTdCWbOEPDO/ICyL9okV8yit+RxUHToSNs=",
+      "url": "_framework/ITTicketingProject.Client.9lrnvcrcix.pdb"
     },
     {
       "hash": "sha256-tckgv/MbZGhlQfELwFmF6c8AHefXpinSSGgVkwYNK64=",
@@ -990,7 +990,7 @@ self.assetsManifest = {
       "url": "_framework/WindowsBase.ag32297siy.wasm"
     },
     {
-      "hash": "sha256-hDVy7FjbiF1xUv6HMFox96JicSqJb7pHcmAlLVyhb0E=",
+      "hash": "sha256-2TqDMk0NvvKRtDyc553whPvNHAx1OQ85n5tR+XGFDtk=",
       "url": "_framework/blazor.boot.json"
     },
     {

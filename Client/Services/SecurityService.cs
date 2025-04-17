@@ -19,17 +19,24 @@ namespace ITTicketingProject.Client
 {
     public partial class SecurityService
     {
-
+        
+        //Variables for API Calls
         private readonly HttpClient httpClient;
 
         private readonly Uri baseUri;
 
         private readonly NavigationManager navigationManager;
 
+        //User class
         public ApplicationUser User { get; private set; } = new ApplicationUser { Name = "Anonymous" };
 
+        //User claims
         public ClaimsPrincipal Principal { get; private set; }
 
+        //Change this to what you want the login user name for the admin to be
+        private string AdminName = "admin";
+
+        //Default Constructor
         public SecurityService(NavigationManager navigationManager, IHttpClientFactory factory)
         {
             this.baseUri = new Uri($"{navigationManager.BaseUri}odata/Identity/");
@@ -37,10 +44,11 @@ namespace ITTicketingProject.Client
             this.navigationManager = navigationManager;
         }
 
+        //Check if a user is apart of a role
         public bool IsInRole(params string[] roles)
         {
 #if DEBUG
-            if (User.Name == "admin")
+            if (User.Name == AdminName)
             {
                 return true;
             }
@@ -64,18 +72,20 @@ namespace ITTicketingProject.Client
             return roles.Any(role => Principal.IsInRole(role));
         }
 
+        //If user has authentication for a page
         public bool IsAuthenticated()
         {
             return Principal?.Identity.IsAuthenticated == true;
         }
 
+        //Hard coded in login for an admin
         public async Task<bool> InitializeAsync(AuthenticationState result)
         {
             Principal = result.User;
 #if DEBUG
-            if (Principal.Identity.Name == "admin")
+            if (Principal.Identity.Name == AdminName)
             {
-                User = new ApplicationUser { Name = "Admin" };
+                User = new ApplicationUser { Name = AdminName };
 
                 return true;
             }
@@ -90,7 +100,7 @@ namespace ITTicketingProject.Client
             return IsAuthenticated();
         }
 
-
+        //Get current authentication for user
         public async Task<ApplicationAuthenticationState> GetAuthenticationStateAsync()
         {
             var uri =  new Uri($"{navigationManager.BaseUri}Account/CurrentUser");
@@ -100,16 +110,20 @@ namespace ITTicketingProject.Client
             return await response.ReadAsync<ApplicationAuthenticationState>();
         }
 
+
+        //Navigate user to login page
         public void Logout()
         {
             navigationManager.NavigateTo("Account/Logout", true);
         }
 
+        //Nagivate user to main page after login
         public void Login()
         {
             navigationManager.NavigateTo("Login", true);
         }
 
+        //Get roles from the DB
         public async Task<IEnumerable<ApplicationRole>> GetRoles()
         {
             var uri = new Uri(baseUri, $"ApplicationRoles");
@@ -123,6 +137,7 @@ namespace ITTicketingProject.Client
             return result.Value;
         }
 
+        //Create role for the DB
         public async Task<ApplicationRole> CreateRole(ApplicationRole role)
         {
             var uri = new Uri(baseUri, $"ApplicationRoles");
@@ -134,6 +149,7 @@ namespace ITTicketingProject.Client
             return await response.ReadAsync<ApplicationRole>();
         }
 
+        //Delete role from DB
         public async Task<HttpResponseMessage> DeleteRole(string id)
         {
             var uri = new Uri(baseUri, $"ApplicationRoles('{id}')");
@@ -141,6 +157,7 @@ namespace ITTicketingProject.Client
             return await httpClient.DeleteAsync(uri);
         }
 
+        //Get users from DB
         public async Task<IEnumerable<ApplicationUser>> GetUsers()
         {
             var uri = new Uri(baseUri, $"ApplicationUsers");
@@ -155,6 +172,7 @@ namespace ITTicketingProject.Client
             return result.Value;
         }
 
+        //Create user for DB
         public async Task<ApplicationUser> CreateUser(ApplicationUser user)
         {
             var uri = new Uri(baseUri, $"ApplicationUsers");
@@ -166,6 +184,7 @@ namespace ITTicketingProject.Client
             return await response.ReadAsync<ApplicationUser>();
         }
 
+        //Delete user from DB
         public async Task<HttpResponseMessage> DeleteUser(string id)
         {
             var uri = new Uri(baseUri, $"ApplicationUsers('{id}')");
@@ -173,6 +192,7 @@ namespace ITTicketingProject.Client
             return await httpClient.DeleteAsync(uri);
         }
 
+        //Query user by ID
         public async Task<ApplicationUser> GetUserById(string id)
         {
             var uri = new Uri(baseUri, $"ApplicationUsers('{id}')?$expand=Roles");
@@ -187,6 +207,7 @@ namespace ITTicketingProject.Client
             return await response.ReadAsync<ApplicationUser>();
         }
 
+        //Query User by ID
         public async Task<ApplicationUser> UpdateUser(string id, ApplicationUser user)
         {
             var uri = new Uri(baseUri, $"ApplicationUsers('{id}')");
@@ -200,10 +221,12 @@ namespace ITTicketingProject.Client
 
             return await response.ReadAsync<ApplicationUser>();
         }
+        //Change user password
         public async Task ChangePassword(string oldPassword, string newPassword)
         {
             var uri =  new Uri($"{navigationManager.BaseUri}Account/ChangePassword");
 
+            //Hash password
             var content = new FormUrlEncodedContent(new Dictionary<string, string> {
                 { "oldPassword", oldPassword },
                 { "newPassword", newPassword }

@@ -14,6 +14,7 @@ namespace ITTicketingProject.Client.Pages
 {
     public partial class Index
     {
+        //Injections
         [Inject]
         protected IJSRuntime JSRuntime { get; set; }
 

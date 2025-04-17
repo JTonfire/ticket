@@ -10,6 +10,7 @@ namespace ITTicketingProject.Server.Models.TicketingDB
     [Table("tickets", Schema = "dbo")]
     public partial class Ticket
     {
+        [Key]
         [Column("ticketID")]
         [Required]
         public int TicketId { get; set; }

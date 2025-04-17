@@ -12,14 +12,17 @@ namespace ITTicketingProject.Client
 {
     public class ApplicationAuthenticationStateProvider : AuthenticationStateProvider
     {
+        //Security variables to check if user can access a page
         private readonly SecurityService securityService;
         private ApplicationAuthenticationState authenticationState;
 
+        //Default constructor
         public ApplicationAuthenticationStateProvider(SecurityService securityService)
         {
             this.securityService = securityService;
         }
 
+        //API call to check if user can access the page from DB
         public override async Task<AuthenticationState> GetAuthenticationStateAsync()
         {
             var identity = new ClaimsIdentity();
@@ -44,6 +47,7 @@ namespace ITTicketingProject.Client
             return result;
         }
 
+        //API call to check the users authentication state from DB
         private async Task<ApplicationAuthenticationState> GetApplicationAuthenticationStateAsync()
         {
             if (authenticationState == null)

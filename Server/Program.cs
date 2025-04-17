@@ -27,7 +27,7 @@ builder.Services.AddDbContext<ITTicketingProject.Server.Data.TicketingDBContext>
 builder.Services.AddControllers().AddOData(opt =>
 {
     var oDataBuilderTicketingDB = new ODataConventionModelBuilder();
-    oDataBuilderTicketingDB.Function("Tickets").Returns<ITTicketingProject.Server.Models.TicketingDB.Ticket>();
+    oDataBuilderTicketingDB.EntitySet<ITTicketingProject.Server.Models.TicketingDB.Ticket>("Tickets");
     opt.AddRouteComponents("odata/TicketingDB", oDataBuilderTicketingDB.GetEdmModel()).Count().Filter().OrderBy().Expand().Select().SetMaxTop(null).TimeZone = TimeZoneInfo.Utc;
 });
 builder.Services.AddScoped<ITTicketingProject.Client.TicketingDBService>();

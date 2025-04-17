@@ -12,6 +12,7 @@ namespace ITTicketingProject.Client.Pages
 {
     public partial class Unauthorized
     {
+        //Injects
         [Inject]
         protected IJSRuntime JSRuntime { get; set; }
 

@@ -104,5 +104,130 @@ namespace ITTicketingProject.Server
 
             return await Task.FromResult(items);
         }
-    }
+
+        partial void OnTicketGet(ITTicketingProject.Server.Models.TicketingDB.Ticket item);
+        partial void OnGetTicketByTicketId(ref IQueryable<ITTicketingProject.Server.Models.TicketingDB.Ticket> items);
+
+
+        public async Task<ITTicketingProject.Server.Models.TicketingDB.Ticket> GetTicketByTicketId(int ticketid)
+        {
+            var items = Context.Tickets
+                              .AsNoTracking()
+                              .Where(i => i.TicketId == ticketid);
+
+ 
+            OnGetTicketByTicketId(ref items);
+
+            var itemToReturn = items.FirstOrDefault();
+
+            OnTicketGet(itemToReturn);
+
+            return await Task.FromResult(itemToReturn);
+        }
+
+        partial void OnTicketCreated(ITTicketingProject.Server.Models.TicketingDB.Ticket item);
+        partial void OnAfterTicketCreated(ITTicketingProject.Server.Models.TicketingDB.Ticket item);
+
+        public async Task<ITTicketingProject.Server.Models.TicketingDB.Ticket> CreateTicket(ITTicketingProject.Server.Models.TicketingDB.Ticket ticket)
+        {
+            OnTicketCreated(ticket);
+
+            var existingItem = Context.Tickets
+                              .Where(i => i.TicketId == ticket.TicketId)
+                              .FirstOrDefault();
+
+            if (existingItem != null)
+            {
+               throw new Exception("Item already available");
+            }            
+
+            try
+            {
+                Context.Tickets.Add(ticket);
+                Context.SaveChanges();
+            }
+            catch
+            {
+                Context.Entry(ticket).State = EntityState.Detached;
+                throw;
+            }
+
+            OnAfterTicketCreated(ticket);
+
+            return ticket;
+        }
+
+        public async Task<ITTicketingProject.Server.Models.TicketingDB.Ticket> CancelTicketChanges(ITTicketingProject.Server.Models.TicketingDB.Ticket item)
+        {
+            var entityToCancel = Context.Entry(item);
+            if (entityToCancel.State == EntityState.Modified)
+            {
+              entityToCancel.CurrentValues.SetValues(entityToCancel.OriginalValues);
+              entityToCancel.State = EntityState.Unchanged;
+            }
+
+            return item;
+        }
+
+        partial void OnTicketUpdated(ITTicketingProject.Server.Models.TicketingDB.Ticket item);
+        partial void OnAfterTicketUpdated(ITTicketingProject.Server.Models.TicketingDB.Ticket item);
+
+        public async Task<ITTicketingProject.Server.Models.TicketingDB.Ticket> UpdateTicket(int ticketid, ITTicketingProject.Server.Models.TicketingDB.Ticket ticket)
+        {
+            OnTicketUpdated(ticket);
+
+            var itemToUpdate = Context.Tickets
+                              .Where(i => i.TicketId == ticket.TicketId)
+                              .FirstOrDefault();
+
+            if (itemToUpdate == null)
+            {
+               throw new Exception("Item no longer available");
+            }
+                
+            var entryToUpdate = Context.Entry(itemToUpdate);
+            entryToUpdate.CurrentValues.SetValues(ticket);
+            entryToUpdate.State = EntityState.Modified;
+
+            Context.SaveChanges();
+
+            OnAfterTicketUpdated(ticket);
+
+            return ticket;
+        }
+
+        partial void OnTicketDeleted(ITTicketingProject.Server.Models.TicketingDB.Ticket item);
+        partial void OnAfterTicketDeleted(ITTicketingProject.Server.Models.TicketingDB.Ticket item);
+
+        public async Task<ITTicketingProject.Server.Models.TicketingDB.Ticket> DeleteTicket(int ticketid)
+        {
+            var itemToDelete = Context.Tickets
+                              .Where(i => i.TicketId == ticketid)
+                              .FirstOrDefault();
+
+            if (itemToDelete == null)
+            {
+               throw new Exception("Item no longer available");
+            }
+
+            OnTicketDeleted(itemToDelete);
+
+
+            Context.Tickets.Remove(itemToDelete);
+
+            try
+            {
+                Context.SaveChanges();
+            }
+            catch
+            {
+                Context.Entry(itemToDelete).State = EntityState.Unchanged;
+                throw;
+            }
+
+            OnAfterTicketDeleted(itemToDelete);
+
+            return itemToDelete;
+        }
+        }
 }
