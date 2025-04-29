@@ -314,7 +314,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.OData/9.2.1": {
+      "Microsoft.AspNetCore.OData/9.3.0": {
         "type": "package",
         "dependencies": {
           "Microsoft.OData.Core": "[8.2.3, 9.0.0)",
@@ -1625,7 +1625,7 @@
           "buildTransitive/Mono.TextTemplating.targets": {}
         }
       },
-      "Radzen.Blazor/6.5.2": {
+      "Radzen.Blazor/6.6.4": {
         "type": "package",
         "dependencies": {
           "Microsoft.AspNetCore.Components": "9.0.4",
@@ -2658,10 +2658,10 @@
         "microsoft.aspnetcore.metadata.nuspec"
       ]
     },
-    "Microsoft.AspNetCore.OData/9.2.1": {
-      "sha512": "lpeUMgPLAhoruijWilKjw+wI0BcBGekD+W5lr4SdiEShw8e9RiqRIYO7/ogGst0lL+IP4nR1nLWVgSgMSwrDCg==",
+    "Microsoft.AspNetCore.OData/9.3.0": {
+      "sha512": "KcKtcsX0TwP9SeSA5fnZYv6ostnprcv9GYsKK5GADTQVQVmiKAzwMsRq2XhVVs+8xx7T396jXHY6GKg0U1uDvA==",
       "type": "package",
-      "path": "microsoft.aspnetcore.odata/9.2.1",
+      "path": "microsoft.aspnetcore.odata/9.3.0",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -2669,7 +2669,7 @@
         "images/odata.png",
         "lib/net8.0/Microsoft.AspNetCore.OData.dll",
         "lib/net8.0/Microsoft.AspNetCore.OData.xml",
-        "microsoft.aspnetcore.odata.9.2.1.nupkg.sha512",
+        "microsoft.aspnetcore.odata.9.3.0.nupkg.sha512",
         "microsoft.aspnetcore.odata.nuspec"
       ]
     },
@@ -4966,10 +4966,10 @@
         "readme.md"
       ]
     },
-    "Radzen.Blazor/6.5.2": {
-      "sha512": "K07Th4Z8HjNfw4HfHmXtCWmtKvcD43wqOmrgvXscrq+3TcQ91KKtOq5nxcXxhLO/YsDiDoechsKVM7YDOPkwSg==",
+    "Radzen.Blazor/6.6.4": {
+      "sha512": "iceQonOpdZEJaujDMyB3AMLbRENj2CKiTQmqpbITO+Xz1WVV1nU6lW0unBrEQ/A97l14xtGQLLMtvOr/EIUWPg==",
       "type": "package",
-      "path": "radzen.blazor/6.5.2",
+      "path": "radzen.blazor/6.6.4",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -4989,7 +4989,7 @@
         "lib/net8.0/Radzen.Blazor.xml",
         "lib/net9.0/Radzen.Blazor.dll",
         "lib/net9.0/Radzen.Blazor.xml",
-        "radzen.blazor.6.5.2.nupkg.sha512",
+        "radzen.blazor.6.6.4.nupkg.sha512",
         "radzen.blazor.nuspec",
         "staticwebassets/Radzen.Blazor.js",
         "staticwebassets/Radzen.Blazor.min.js",
@@ -4999,6 +4999,10 @@
         "staticwebassets/css/default-base.css",
         "staticwebassets/css/default-wcag.css",
         "staticwebassets/css/default.css",
+        "staticwebassets/css/fluent-base.css",
+        "staticwebassets/css/fluent-dark-base.css",
+        "staticwebassets/css/fluent-dark.css",
+        "staticwebassets/css/fluent.css",
         "staticwebassets/css/humanistic-base.css",
         "staticwebassets/css/humanistic-dark-base.css",
         "staticwebassets/css/humanistic-dark-wcag.css",
@@ -5011,6 +5015,10 @@
         "staticwebassets/css/material-dark.css",
         "staticwebassets/css/material-wcag.css",
         "staticwebassets/css/material.css",
+        "staticwebassets/css/material3-base.css",
+        "staticwebassets/css/material3-dark-base.css",
+        "staticwebassets/css/material3-dark.css",
+        "staticwebassets/css/material3.css",
         "staticwebassets/css/software-base.css",
         "staticwebassets/css/software-dark-base.css",
         "staticwebassets/css/software-dark-wcag.css",
@@ -6405,6 +6413,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {

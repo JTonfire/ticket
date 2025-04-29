@@ -13,7 +13,11 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITTicketingProject.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
+<<<<<<< Updated upstream
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3ab535500fc6e4db1bc83b7d7eb203a4e153ed8a")]
+=======
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d1a92a693b34437843a246de4ee35071795801a")]
+>>>>>>> Stashed changes
 [assembly: System.Reflection.AssemblyProductAttribute("ITTicketingProject.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITTicketingProject.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -13,11 +13,11 @@
           "Microsoft.AspNetCore.Components.WebAssembly.Server": "9.0.4",
           "Microsoft.AspNetCore.HeaderPropagation": "9.0.4",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.4",
-          "Microsoft.AspNetCore.OData": "9.2.1",
+          "Microsoft.AspNetCore.OData": "9.3.0",
           "Microsoft.EntityFrameworkCore": "9.0.4",
           "Microsoft.EntityFrameworkCore.Design": "9.0.4",
           "Microsoft.EntityFrameworkCore.SqlServer": "9.0.4",
-          "Radzen.Blazor": "6.5.2"
+          "Radzen.Blazor": "6.6.4"
         },
         "runtime": {
           "ITTicketingProject.Server.dll": {}
@@ -227,7 +227,7 @@
           }
         }
       },
-      "Microsoft.AspNetCore.OData/9.2.1": {
+      "Microsoft.AspNetCore.OData/9.3.0": {
         "dependencies": {
           "Microsoft.OData.Core": "8.2.3",
           "Microsoft.OData.Edm": "8.2.3",
@@ -236,8 +236,8 @@
         },
         "runtime": {
           "lib/net8.0/Microsoft.AspNetCore.OData.dll": {
-            "assemblyVersion": "9.2.1.0",
-            "fileVersion": "9.2.1.60312"
+            "assemblyVersion": "9.3.0.0",
+            "fileVersion": "9.3.0.60416"
           }
         }
       },
@@ -1149,7 +1149,7 @@
           }
         }
       },
-      "Radzen.Blazor/6.5.2": {
+      "Radzen.Blazor/6.6.4": {
         "dependencies": {
           "Microsoft.AspNetCore.Components": "9.0.4",
           "Microsoft.AspNetCore.Components.Web": "9.0.4",
@@ -1157,8 +1157,8 @@
         },
         "runtime": {
           "lib/net9.0/Radzen.Blazor.dll": {
-            "assemblyVersion": "6.5.2.0",
-            "fileVersion": "6.5.2.0"
+            "assemblyVersion": "6.6.4.0",
+            "fileVersion": "6.6.4.0"
           }
         }
       },
@@ -1434,7 +1434,7 @@
           "Microsoft.AspNetCore.Components.WebAssembly.Authentication": "9.0.4",
           "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "9.0.4",
           "Microsoft.Extensions.Http": "9.0.4",
-          "Radzen.Blazor": "6.5.2",
+          "Radzen.Blazor": "6.6.4",
           "System.Net.Http.Json": "9.0.4"
         },
         "runtime": {
@@ -1578,12 +1578,12 @@
       "path": "microsoft.aspnetcore.metadata/9.0.4",
       "hashPath": "microsoft.aspnetcore.metadata.9.0.4.nupkg.sha512"
     },
-    "Microsoft.AspNetCore.OData/9.2.1": {
+    "Microsoft.AspNetCore.OData/9.3.0": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-lpeUMgPLAhoruijWilKjw+wI0BcBGekD+W5lr4SdiEShw8e9RiqRIYO7/ogGst0lL+IP4nR1nLWVgSgMSwrDCg==",
-      "path": "microsoft.aspnetcore.odata/9.2.1",
-      "hashPath": "microsoft.aspnetcore.odata.9.2.1.nupkg.sha512"
+      "sha512": "sha512-KcKtcsX0TwP9SeSA5fnZYv6ostnprcv9GYsKK5GADTQVQVmiKAzwMsRq2XhVVs+8xx7T396jXHY6GKg0U1uDvA==",
+      "path": "microsoft.aspnetcore.odata/9.3.0",
+      "hashPath": "microsoft.aspnetcore.odata.9.3.0.nupkg.sha512"
     },
     "Microsoft.Bcl.AsyncInterfaces/8.0.0": {
       "type": "package",
@@ -2012,12 +2012,12 @@
       "path": "mono.texttemplating/3.0.0",
       "hashPath": "mono.texttemplating.3.0.0.nupkg.sha512"
     },
-    "Radzen.Blazor/6.5.2": {
+    "Radzen.Blazor/6.6.4": {
       "type": "package",
       "serviceable": true,
-      "sha512": "sha512-K07Th4Z8HjNfw4HfHmXtCWmtKvcD43wqOmrgvXscrq+3TcQ91KKtOq5nxcXxhLO/YsDiDoechsKVM7YDOPkwSg==",
-      "path": "radzen.blazor/6.5.2",
-      "hashPath": "radzen.blazor.6.5.2.nupkg.sha512"
+      "sha512": "sha512-iceQonOpdZEJaujDMyB3AMLbRENj2CKiTQmqpbITO+Xz1WVV1nU6lW0unBrEQ/A97l14xtGQLLMtvOr/EIUWPg==",
+      "path": "radzen.blazor/6.6.4",
+      "hashPath": "radzen.blazor.6.6.4.nupkg.sha512"
     },
     "System.ClientModel/1.0.0": {
       "type": "package",

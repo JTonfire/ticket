@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "ITTicketingProject.Client",
   "resources": {
-    "hash": "sha256-4Cl55K+EC2CxUaLXofs0LJHlWYrSAPSWanNTS2FBMzk=",
+    "hash": "sha256-/dYttok6/EAhu9ad91xYMFYSJ3Wf0Qka+K4DzCpFzu8=",
     "fingerprinting": {
       "Microsoft.AspNetCore.Authorization.da83xzpz5r.wasm": "Microsoft.AspNetCore.Authorization.wasm",
       "Microsoft.AspNetCore.Components.vmzb2angnn.wasm": "Microsoft.AspNetCore.Components.wasm",
@@ -43,7 +43,7 @@
       "Microsoft.Extensions.Primitives.j8wpr8jzql.wasm": "Microsoft.Extensions.Primitives.wasm",
       "Microsoft.JSInterop.fehvqxd8e9.wasm": "Microsoft.JSInterop.wasm",
       "Microsoft.JSInterop.WebAssembly.lao5cp8gqq.wasm": "Microsoft.JSInterop.WebAssembly.wasm",
-      "Radzen.Blazor.cwm5qfx04i.wasm": "Radzen.Blazor.wasm",
+      "Radzen.Blazor.rcahlpaqag.wasm": "Radzen.Blazor.wasm",
       "Microsoft.CodeAnalysis.resources.vceumzhqml.wasm": "Microsoft.CodeAnalysis.resources.wasm",
       "Microsoft.CodeAnalysis.resources.to7s51asb6.wasm": "Microsoft.CodeAnalysis.resources.wasm",
       "Microsoft.CodeAnalysis.resources.me6h21w7u9.wasm": "Microsoft.CodeAnalysis.resources.wasm",
@@ -246,8 +246,8 @@
       "icudt_CJK.tjcz0u77k5.dat": "icudt_CJK.dat",
       "icudt_EFIGS.tptq2av103.dat": "icudt_EFIGS.dat",
       "icudt_no_CJK.lfu7j35m59.dat": "icudt_no_CJK.dat",
-      "ITTicketingProject.Client.7astp2nm07.wasm": "ITTicketingProject.Client.wasm",
-      "ITTicketingProject.Client.9lrnvcrcix.pdb": "ITTicketingProject.Client.pdb"
+      "ITTicketingProject.Client.1dh2q6jn3l.wasm": "ITTicketingProject.Client.wasm",
+      "ITTicketingProject.Client.zya44y6zx2.pdb": "ITTicketingProject.Client.pdb"
     },
     "jsModuleNative": {
       "dotnet.native.hvg7u8bimp.js": "sha256-LX9rFEWGVxhkOkAVPG0w5RxPwzPBlEUz6dQNjWS7M+M="
@@ -308,7 +308,7 @@
       "Microsoft.Extensions.Primitives.j8wpr8jzql.wasm": "sha256-c3q6DqetjnVCASwVQf1HEJPSXiGtOzmzRbNsXrQRnpw=",
       "Microsoft.JSInterop.fehvqxd8e9.wasm": "sha256-KUgYboUywTiNc2KAn4+PwXUpsvPc+qyNcWlyUHCiuUA=",
       "Microsoft.JSInterop.WebAssembly.lao5cp8gqq.wasm": "sha256-w+WvmTYZ9xv2XDrEoF7buW47/o7dUeKdnYWKUgyFEkU=",
-      "Radzen.Blazor.cwm5qfx04i.wasm": "sha256-LAnLNHVixnVBVA59wQGIMC20dMRP5A9wXZxibBZ89iI=",
+      "Radzen.Blazor.rcahlpaqag.wasm": "sha256-q6dzHMqyHDhRyMasfU5PyU2GovUIyTHeAhsxxKMTYC0=",
       "Microsoft.CSharp.qzjvm9hz38.wasm": "sha256-9uB/7IFSiKE1yWAQ/EFaS3ub/zf5RJXVK6CMmA7mxhY=",
       "Microsoft.VisualBasic.Core.790ssxljcz.wasm": "sha256-tT8Mx7IXGkD6vZZAtEi9ZzXf+A2nPkCn9cStfF49D8w=",
       "Microsoft.VisualBasic.o05ci7346e.wasm": "sha256-mF3L2/zWdzCiZgxEqWZq47WPANCts8RfZuGD/Q+uuX8=",
@@ -476,10 +476,10 @@
       "WindowsBase.ag32297siy.wasm": "sha256-BgyZxTgdU9rIYlNC9ZMiMjnvBAJSL0eQH8Y87o1M+q4=",
       "mscorlib.vt9pwshhot.wasm": "sha256-/aFxOaPc1iTNlJw0z4/RGEMD0nzl4qVE3SF4wMsLgp0=",
       "netstandard.or41gtprh3.wasm": "sha256-nD1KqAI5YYz+YohqHaZ5EmXi7Eq9Uy9sUknnI8sj1AM=",
-      "ITTicketingProject.Client.7astp2nm07.wasm": "sha256-kdpU+pL3cDCpvVzwxRlYEMmBOiPyLteTBpgnX23J+Xc="
+      "ITTicketingProject.Client.1dh2q6jn3l.wasm": "sha256-ZeaoizZcA94k+6a7wVRdQHSu3/OvoOY0V/gUxOP8kJc="
     },
     "pdb": {
-      "ITTicketingProject.Client.9lrnvcrcix.pdb": "sha256-kzVN/L2OjPTdCWbOEPDO/ICyL9okV8yit+RxUHToSNs="
+      "ITTicketingProject.Client.zya44y6zx2.pdb": "sha256-i3x5Vfv/DTYZEMC6whHrSnBFQi7Grz9dlWvY6KZhoC4="
     },
     "satelliteResources": {
       "cs": {

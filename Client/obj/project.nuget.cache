@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "v6USYkQr+Nc=",
+  "dgSpecHash": "Z0MFUyEAQlg=",
   "success": true,
   "projectFilePath": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\ITTicketingProject.Client.csproj",
   "expectedPackageFiles": [
@@ -49,7 +49,7 @@
     "C:\\Users\\JT Frazier\\.nuget\\packages\\microsoft.jsinterop.webassembly\\9.0.4\\microsoft.jsinterop.webassembly.9.0.4.nupkg.sha512",
     "C:\\Users\\JT Frazier\\.nuget\\packages\\microsoft.net.illink.tasks\\9.0.4\\microsoft.net.illink.tasks.9.0.4.nupkg.sha512",
     "C:\\Users\\JT Frazier\\.nuget\\packages\\microsoft.net.sdk.webassembly.pack\\9.0.4\\microsoft.net.sdk.webassembly.pack.9.0.4.nupkg.sha512",
-    "C:\\Users\\JT Frazier\\.nuget\\packages\\radzen.blazor\\6.5.2\\radzen.blazor.6.5.2.nupkg.sha512",
+    "C:\\Users\\JT Frazier\\.nuget\\packages\\radzen.blazor\\6.6.4\\radzen.blazor.6.6.4.nupkg.sha512",
     "C:\\Users\\JT Frazier\\.nuget\\packages\\system.collections.immutable\\7.0.0\\system.collections.immutable.7.0.0.nupkg.sha512",
     "C:\\Users\\JT Frazier\\.nuget\\packages\\system.net.http.json\\9.0.4\\system.net.http.json.9.0.4.nupkg.sha512",
     "C:\\Users\\JT Frazier\\.nuget\\packages\\system.reflection.metadata\\7.0.0\\system.reflection.metadata.7.0.0.nupkg.sha512",
