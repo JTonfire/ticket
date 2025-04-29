@@ -16,17 +16,21 @@ namespace ITTicketingProject.Server.Models.TicketingDB
         public int TicketId { get; set; }
 
         [Column("affectedUser")]
-        public int? AffectedUser { get; set; }
+        [Required]
+        public string AffectedUser { get; set; }
 
         [Column("description")]
+        [Required]
         public string Description { get; set; }
 
         [Column("owner")]
-        [Required]
-        public int Owner { get; set; }
+        public string Owner { get; set; }
 
         [Column("status")]
         [Required]
         public string Status { get; set; }
+
+        [Column("location")]
+        public string Location { get; set; }
     }
 }

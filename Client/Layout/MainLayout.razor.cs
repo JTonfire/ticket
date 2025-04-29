@@ -40,6 +40,8 @@ namespace ITTicketingProject.Client.Layout
         void SidebarToggleClick()
         {
             sidebarExpanded = !sidebarExpanded;
+
+            
         }
 
         protected void ProfileMenuClick(RadzenProfileMenuItem args)

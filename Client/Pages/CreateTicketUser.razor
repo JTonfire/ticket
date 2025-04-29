@@ -3,19 +3,40 @@
 @attribute [Authorize(Roles="user")]
 
 <PageTitle>Create Ticket User</PageTitle>
-<RadzenRow>
-    <RadzenColumn Size="12">
-        <RadzenText Text="Create Ticket User" TextStyle="TextStyle.H3" TagName="TagName.H1" />
-        <RadzenText Text="Problem Description" TextStyle="Radzen.Blazor.TextStyle.Body1"/>
-    </RadzenColumn>
-    <RadzenTextBox Style="width: 286px; height: 79px" Name="ProblemDescriptionTextBox" @bind-Value="ticket.Description"></RadzenTextBox>
-</RadzenRow>
-<RadzenColumn Style="width: 656px; height: 247px">
-<RadzenText Text="Location">
-    
-</RadzenText>
-    <RadzenContextMenu></RadzenContextMenu>
-   
-    
+
+<RadzenColumn SizeMD="12">
+        <RadzenTemplateForm TItem="ITTicketingProject.Server.Models.TicketingDB.Ticket" Data="@ticket" Submit="@Button0Click">
+           
+            
+             <RadzenRow style="margin-bottom: 1rem">
+                <RadzenColumn SizeMD="3">
+                    <RadzenLabel Component="AffectedUser" style="width: 100%" Text="Affected User" />
+                </RadzenColumn>
+                <RadzenColumn SizeMD="9">
+                     <RadzenTextBox style="display: block; width: 100%" @bind-Value="@(ticket.AffectedUser)" Name="AffectedUser" />
+                    <RadzenRequiredValidator Component="AffectedUser" Text="Affected user is required" />
+                </RadzenColumn>
+            </RadzenRow>
+             <RadzenRow style="margin-bottom: 1rem">
+                <RadzenColumn SizeMD="3">
+                    <RadzenLabel Component="Description" style="width: 100%" Text="Description" />
+                </RadzenColumn>
+                <RadzenColumn SizeMD="9">
+                    <RadzenTextBox style="display: block; width: 100%" @bind-Value="@(ticket.Description)" Name="Description" />
+                    <RadzenRequiredValidator Component="Description" Text="Description is required" />
+                </RadzenColumn>
+            </RadzenRow>
+            <RadzenRow style="margin-bottom: 1rem">
+                <RadzenColumn SizeMD="3">
+                    <RadzenLabel Component="Location" style="width: 100%" Text="Location" />
+                </RadzenColumn>
+                <RadzenColumn SizeMD="9">
+                    <RadzenTextBox style="display: block; width: 100%" @bind-Value="@(ticket.Location)" Name="Location" />
+                    <RadzenRequiredValidator Component="Location" Text="Location is required" />
+                </RadzenColumn>
+            </RadzenRow>
+            <RadzenStack Orientation="Orientation.Horizontal" AlignItems="AlignItems.Center" JustifyContent="JustifyContent.End" Gap="0.5rem">
+                    <RadzenButton ButtonType="ButtonType.Submit" Icon="save" Text="Save" Variant="Variant.Flat" />
+            </RadzenStack>
+        </RadzenTemplateForm>
 </RadzenColumn>
-<RadzenButton Text="Create Ticket" Click="@Button0Click"></RadzenButton>

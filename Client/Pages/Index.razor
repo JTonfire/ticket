@@ -4,8 +4,15 @@
 <PageTitle>Index</PageTitle>
 <RadzenRow Style="height: 475px; width: 1412px; display: flex">
     <RadzenCard Style="width: 676px">
-        <RadzenChart></RadzenChart>
+        <RadzenDataGrid Data="@tickets" Style="width: 645px; height: 413px; margin-top: 15px" TItem="Server.Models.TicketingDB.Ticket">
+        <Columns>
+        <RadzenDataGridColumn TItem="Server.Models.TicketingDB.Ticket" Property="TicketId" Title="Ticket ID"></RadzenDataGridColumn>
+        <RadzenDataGridColumn TItem="Server.Models.TicketingDB.Ticket" Property="AffectedUser" Title="Affected User"></RadzenDataGridColumn>
+        <RadzenDataGridColumn TItem="Server.Models.TicketingDB.Ticket" Property="Description" Title="Description"></RadzenDataGridColumn>
+        </Columns>
+</RadzenDataGrid>
     </RadzenCard>
+    
     <RadzenCard Style="width: 430px; margin-left: 200px">
         
         <RadzenGravatar Email= "@Security.User.Name" Style="width: 187px; height: 187px; float: none; vertical-align: middle"></RadzenGravatar>
