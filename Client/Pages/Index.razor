@@ -2,9 +2,9 @@
 
 @attribute [Authorize]
 <PageTitle>Index</PageTitle>
-<RadzenRow Style="height: 475px; width: 1412px; display: flex">
+<RadzenRow Style="height: 475px; width: 1412px; display: flex" JustifyContent="Radzen.JustifyContent.Center">
     <RadzenCard Style="width: 676px">
-        <RadzenDataGrid Data="@tickets" Style="width: 645px; height: 413px; margin-top: 15px" TItem="Server.Models.TicketingDB.Ticket">
+        <RadzenDataGrid Data="@tickets" Style="width: 645px; height: 413px; margin-top: 15px" TItem="Server.Models.TicketingDB.Ticket" AllowFiltering="true" RowSelect = "@RowSelect">
         <Columns>
         <RadzenDataGridColumn TItem="Server.Models.TicketingDB.Ticket" Property="TicketId" Title="Ticket ID"></RadzenDataGridColumn>
         <RadzenDataGridColumn TItem="Server.Models.TicketingDB.Ticket" Property="AffectedUser" Title="Affected User"></RadzenDataGridColumn>
@@ -15,7 +15,7 @@
     
     <RadzenCard Style="width: 430px; margin-left: 200px">
         
-        <RadzenGravatar Email= "@Security.User.Name" Style="width: 187px; height: 187px; float: none; vertical-align: middle"></RadzenGravatar>
+        <RadzenGravatar Email= "@Security.User.Name" Style="width: 187px; height: 187px; float: none; vertical-align: middle; margin-left: 108px"></RadzenGravatar>
         <RadzenText Text="@Security.User.UserName" Style="width: 409px; height: 49px; font-size: 25px; text-align: center"/>
         <RadzenText Text="@Security.User.Email" Style="width: 409px; height: 49px; font-size: 25px; text-align: center"/>
         

@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "LSPhpmWyDQmtV+Hja+uwx9g2pPbn7i9a9zWDDpsAPP8=",
+  "Hash": "jUTjy23MFL920xCspAW8iunDYkh0bNCtI1FR6B1eouw=",
   "Source": "ITTicketingProject.Server",
   "BasePath": "_content/ITTicketingProject.Server",
   "Mode": "Default",
@@ -988,8 +988,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "977z3bv5qa",
-      "Integrity": "NS6n/jbqXnMJPOriURvKQYnTWBwRE4Hgw6rgzq81fZs=",
+      "Fingerprint": "hy2p5nes7q",
+      "Integrity": "x2Po4ABaMG+C1ldlNgtEgHA5/fLSJUG7ePlil5Kk8ME=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -1429,8 +1429,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "h56708wotf",
-      "Integrity": "G8X0AUpPzm7MmTGNsMT3nk+EQXuJDZp5u8pve0DoE4M=",
+      "Fingerprint": "o4i0gwbvjr",
+      "Integrity": "yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ITTicketingProject.Client.pdb"
@@ -1450,8 +1450,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "uud37wtef0",
-      "Integrity": "GmCa/lSLBUKMGaI1kDrBi5Zi+VjoXWd844lwdQzkuao=",
+      "Fingerprint": "tx3ps6h0or",
+      "Integrity": "z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ITTicketingProject.Client.wasm"
@@ -6623,12 +6623,12 @@
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2igpru2ayl-upfcz2s4al.gz"
     },
     {
-      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-h56708wotf.gz",
+      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-o4i0gwbvjr.gz",
       "SourceId": "ITTicketingProject.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ITTicketingProject.Client#[.{fingerprint=h56708wotf}]!.pdb.gz",
+      "RelativePath": "_framework/ITTicketingProject.Client#[.{fingerprint=o4i0gwbvjr}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6637,19 +6637,19 @@
       "RelatedAsset": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ITTicketingProject.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "yrdebh3zkk",
-      "Integrity": "wgNDozjxR7jOmsV3MM1VrPJkTReRJKDsHQbNOIOS6eQ=",
+      "Fingerprint": "hniw2q1cw2",
+      "Integrity": "k98OJbVMBYDrYS7erCpw1EOj3CBE2wMrkHxk9BEjU58=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-h56708wotf.gz"
+      "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-o4i0gwbvjr.gz"
     },
     {
-      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-uud37wtef0.gz",
+      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-tx3ps6h0or.gz",
       "SourceId": "ITTicketingProject.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ITTicketingProject.Client#[.{fingerprint=uud37wtef0}]!.wasm.gz",
+      "RelativePath": "_framework/ITTicketingProject.Client#[.{fingerprint=tx3ps6h0or}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6658,11 +6658,11 @@
       "RelatedAsset": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ITTicketingProject.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "dnbea9cw6s",
-      "Integrity": "eQCNsIpF+SZH+ZHS7KHxpywi5YDiPsA80A87NthGww8=",
+      "Fingerprint": "avgk5yl4id",
+      "Integrity": "mjCMpAj8PXbVOydqq+7KqGI3lyhrfKdxEacDabC/ooE=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-uud37wtef0.gz"
+      "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-tx3ps6h0or.gz"
     },
     {
       "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2q5d2lwe8r-ailofr3xg4.gz",
@@ -6770,7 +6770,7 @@
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\3wedjbqsko-gm4fhld22q.gz"
     },
     {
-      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\4bva9xy48x-977z3bv5qa.gz",
+      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\4bva9xy48x-hy2p5nes7q.gz",
       "SourceId": "ITTicketingProject.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\",
@@ -6784,11 +6784,11 @@
       "RelatedAsset": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "q8j057lvbf",
-      "Integrity": "lu2H0gpK5OacKOsoTNVlublhnt9tFPGX74OW+DaOWZ4=",
+      "Fingerprint": "l3glzz8zkx",
+      "Integrity": "PwzYzXJzH4OwQJD4WQRKDThuY+S76BsCAvBiBW7RHIU=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\4bva9xy48x-977z3bv5qa.gz"
+      "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\4bva9xy48x-hy2p5nes7q.gz"
     },
     {
       "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\4bzo5gjlpj-qo6wt0x95a.gz",
@@ -8471,7 +8471,7 @@
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\h9pkd1ajol-7swctlh1au.gz"
     },
     {
-      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\halv0cm7cb-ipezrcaxen.gz",
+      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\halv0cm7cb-gmyjjn3afg.gz",
       "SourceId": "ITTicketingProject.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\",
@@ -8485,11 +8485,11 @@
       "RelatedAsset": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hdipbzmr4g",
-      "Integrity": "u1//DOkWCZG7+Yr+9N/G57XgfKpAvgF3vHjdqqCd7Rw=",
+      "Fingerprint": "ef4a3z8lrv",
+      "Integrity": "FryMW1/ucvnCIdp/yaVQuZsmrpHpeqK2CmPVtilC5T4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
-      "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\halv0cm7cb-ipezrcaxen.gz"
+      "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\halv0cm7cb-gmyjjn3afg.gz"
     },
     {
       "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\hbwdvf2h4d-m2f69v8d2f.gz",
@@ -11467,8 +11467,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerManifest",
-      "Fingerprint": "ipezrcaxen",
-      "Integrity": "yj+cWw/rP67fysIoYytp0EwrSeOwWtoiQYx3UdHI2q8=",
+      "Fingerprint": "gmyjjn3afg",
+      "Integrity": "+Gqr/PftGH7LHr2cNdA/lX9olzuUuapghcTAG8aDEro=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build"
@@ -11488,8 +11488,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerJs",
-      "Fingerprint": "wovznej7tz",
-      "Integrity": "0BW5p1LT7Cm6YfmoVBWv8zqx/DrmUpUmNmvSkoTWvNw=",
+      "Fingerprint": "lv05jsiwg4",
+      "Integrity": "T2n0ctb262Gh3EiSGMZgxtJcshEzVR1WkUzoXsg3Qug=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\service-worker\\service-worker.js.build"
@@ -12272,7 +12272,7 @@
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\.nuget\\packages\\radzen.blazor\\6.6.4\\staticwebassets\\css\\standard-dark-wcag.css"
     },
     {
-      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Server\\obj\\Debug\\net9.0\\compressed\\s9o7qes82m-wovznej7tz.gz",
+      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Server\\obj\\Debug\\net9.0\\compressed\\s9o7qes82m-lv05jsiwg4.gz",
       "SourceId": "ITTicketingProject.Client",
       "SourceType": "Project",
       "ContentRoot": "C:\\Users\\JT Frazier\\Documents\\ticket\\Server\\obj\\Debug\\net9.0\\compressed\\",
@@ -12286,8 +12286,8 @@
       "RelatedAsset": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\service-worker\\service-worker.js.build",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "y1oxrx47yx",
-      "Integrity": "+uje7O4+7u3Hhh/htznaQHbseB/SlmlqnynJbpNrq8E=",
+      "Fingerprint": "y57y0m9i8j",
+      "Integrity": "xoCO73s23Kslrv7oAcODHpI8ZCZsr4bgP8rjeTGe+eI=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\service-worker\\service-worker.js.build"
@@ -20440,28 +20440,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"NS6n/jbqXnMJPOriURvKQYnTWBwRE4Hgw6rgzq81fZs=\""
+          "Value": "\"x2Po4ABaMG+C1ldlNgtEgHA5/fLSJUG7ePlil5Kk8ME=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:46 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NS6n/jbqXnMJPOriURvKQYnTWBwRE4Hgw6rgzq81fZs="
+          "Value": "sha256-x2Po4ABaMG+C1ldlNgtEgHA5/fLSJUG7ePlil5Kk8ME="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\4bva9xy48x-977z3bv5qa.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\4bva9xy48x-hy2p5nes7q.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000066498205"
+          "Quality": "0.000066480521"
         }
       ],
       "ResponseHeaders": [
@@ -20479,15 +20479,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15037"
+          "Value": "15041"
         },
         {
           "Name": "ETag",
-          "Value": "\"lu2H0gpK5OacKOsoTNVlublhnt9tFPGX74OW+DaOWZ4=\""
+          "Value": "\"PwzYzXJzH4OwQJD4WQRKDThuY+S76BsCAvBiBW7RHIU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:50:33 GMT"
+          "Value": "Wed, 30 Apr 2025 00:40:15 GMT"
         },
         {
           "Name": "Vary",
@@ -20499,19 +20499,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"NS6n/jbqXnMJPOriURvKQYnTWBwRE4Hgw6rgzq81fZs=\""
+          "Value": "W/\"x2Po4ABaMG+C1ldlNgtEgHA5/fLSJUG7ePlil5Kk8ME=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-NS6n/jbqXnMJPOriURvKQYnTWBwRE4Hgw6rgzq81fZs="
+          "Value": "sha256-x2Po4ABaMG+C1ldlNgtEgHA5/fLSJUG7ePlil5Kk8ME="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\4bva9xy48x-977z3bv5qa.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\4bva9xy48x-hy2p5nes7q.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20528,7 +20528,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15037"
+          "Value": "15041"
         },
         {
           "Name": "Content-Type",
@@ -20536,11 +20536,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"lu2H0gpK5OacKOsoTNVlublhnt9tFPGX74OW+DaOWZ4=\""
+          "Value": "\"PwzYzXJzH4OwQJD4WQRKDThuY+S76BsCAvBiBW7RHIU=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:50:33 GMT"
+          "Value": "Wed, 30 Apr 2025 00:40:15 GMT"
         },
         {
           "Name": "Vary",
@@ -20550,7 +20550,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-lu2H0gpK5OacKOsoTNVlublhnt9tFPGX74OW+DaOWZ4="
+          "Value": "sha256-PwzYzXJzH4OwQJD4WQRKDThuY+S76BsCAvBiBW7RHIU="
         }
       ]
     },
@@ -26354,7 +26354,7 @@
       ]
     },
     {
-      "Route": "_framework/ITTicketingProject.Client.h56708wotf.pdb",
+      "Route": "_framework/ITTicketingProject.Client.o4i0gwbvjr.pdb",
       "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ITTicketingProject.Client.pdb",
       "Selectors": [],
       "ResponseHeaders": [
@@ -26368,7 +26368,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "83988"
+          "Value": "90256"
         },
         {
           "Name": "Content-Type",
@@ -26376,21 +26376,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"G8X0AUpPzm7MmTGNsMT3nk+EQXuJDZp5u8pve0DoE4M=\""
+          "Value": "\"yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:45 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:53 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "h56708wotf"
+          "Value": "o4i0gwbvjr"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-G8X0AUpPzm7MmTGNsMT3nk+EQXuJDZp5u8pve0DoE4M="
+          "Value": "sha256-yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM="
         },
         {
           "Name": "label",
@@ -26399,13 +26399,13 @@
       ]
     },
     {
-      "Route": "_framework/ITTicketingProject.Client.h56708wotf.pdb",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-h56708wotf.gz",
+      "Route": "_framework/ITTicketingProject.Client.o4i0gwbvjr.pdb",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-o4i0gwbvjr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000015894966"
+          "Quality": "0.000014622235"
         }
       ],
       "ResponseHeaders": [
@@ -26423,15 +26423,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "62912"
+          "Value": "68388"
         },
         {
           "Name": "ETag",
-          "Value": "\"wgNDozjxR7jOmsV3MM1VrPJkTReRJKDsHQbNOIOS6eQ=\""
+          "Value": "\"k98OJbVMBYDrYS7erCpw1EOj3CBE2wMrkHxk9BEjU58=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:47 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
         },
         {
           "Name": "Vary",
@@ -26443,17 +26443,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"G8X0AUpPzm7MmTGNsMT3nk+EQXuJDZp5u8pve0DoE4M=\""
+          "Value": "W/\"yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "h56708wotf"
+          "Value": "o4i0gwbvjr"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-G8X0AUpPzm7MmTGNsMT3nk+EQXuJDZp5u8pve0DoE4M="
+          "Value": "sha256-yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM="
         },
         {
           "Name": "label",
@@ -26462,8 +26462,8 @@
       ]
     },
     {
-      "Route": "_framework/ITTicketingProject.Client.h56708wotf.pdb.gz",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-h56708wotf.gz",
+      "Route": "_framework/ITTicketingProject.Client.o4i0gwbvjr.pdb.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-o4i0gwbvjr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26480,7 +26480,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "62912"
+          "Value": "68388"
         },
         {
           "Name": "Content-Type",
@@ -26488,11 +26488,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wgNDozjxR7jOmsV3MM1VrPJkTReRJKDsHQbNOIOS6eQ=\""
+          "Value": "\"k98OJbVMBYDrYS7erCpw1EOj3CBE2wMrkHxk9BEjU58=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:47 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
         },
         {
           "Name": "Vary",
@@ -26502,11 +26502,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "h56708wotf"
+          "Value": "o4i0gwbvjr"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-wgNDozjxR7jOmsV3MM1VrPJkTReRJKDsHQbNOIOS6eQ="
+          "Value": "sha256-k98OJbVMBYDrYS7erCpw1EOj3CBE2wMrkHxk9BEjU58="
         },
         {
           "Name": "label",
@@ -26529,7 +26529,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "83988"
+          "Value": "90256"
         },
         {
           "Name": "Content-Type",
@@ -26537,28 +26537,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"G8X0AUpPzm7MmTGNsMT3nk+EQXuJDZp5u8pve0DoE4M=\""
+          "Value": "\"yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:45 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:53 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-G8X0AUpPzm7MmTGNsMT3nk+EQXuJDZp5u8pve0DoE4M="
+          "Value": "sha256-yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM="
         }
       ]
     },
     {
       "Route": "_framework/ITTicketingProject.Client.pdb",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-h56708wotf.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-o4i0gwbvjr.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000015894966"
+          "Quality": "0.000014622235"
         }
       ],
       "ResponseHeaders": [
@@ -26576,15 +26576,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "62912"
+          "Value": "68388"
         },
         {
           "Name": "ETag",
-          "Value": "\"wgNDozjxR7jOmsV3MM1VrPJkTReRJKDsHQbNOIOS6eQ=\""
+          "Value": "\"k98OJbVMBYDrYS7erCpw1EOj3CBE2wMrkHxk9BEjU58=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:47 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
         },
         {
           "Name": "Vary",
@@ -26596,19 +26596,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"G8X0AUpPzm7MmTGNsMT3nk+EQXuJDZp5u8pve0DoE4M=\""
+          "Value": "W/\"yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-G8X0AUpPzm7MmTGNsMT3nk+EQXuJDZp5u8pve0DoE4M="
+          "Value": "sha256-yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM="
         }
       ]
     },
     {
       "Route": "_framework/ITTicketingProject.Client.pdb.gz",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-h56708wotf.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-o4i0gwbvjr.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26625,7 +26625,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "62912"
+          "Value": "68388"
         },
         {
           "Name": "Content-Type",
@@ -26633,11 +26633,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"wgNDozjxR7jOmsV3MM1VrPJkTReRJKDsHQbNOIOS6eQ=\""
+          "Value": "\"k98OJbVMBYDrYS7erCpw1EOj3CBE2wMrkHxk9BEjU58=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:47 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
         },
         {
           "Name": "Vary",
@@ -26647,12 +26647,12 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-wgNDozjxR7jOmsV3MM1VrPJkTReRJKDsHQbNOIOS6eQ="
+          "Value": "sha256-k98OJbVMBYDrYS7erCpw1EOj3CBE2wMrkHxk9BEjU58="
         }
       ]
     },
     {
-      "Route": "_framework/ITTicketingProject.Client.uud37wtef0.wasm",
+      "Route": "_framework/ITTicketingProject.Client.tx3ps6h0or.wasm",
       "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ITTicketingProject.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -26666,7 +26666,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "130325"
+          "Value": "141077"
         },
         {
           "Name": "Content-Type",
@@ -26674,21 +26674,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GmCa/lSLBUKMGaI1kDrBi5Zi+VjoXWd844lwdQzkuao=\""
+          "Value": "\"z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:46 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:53 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uud37wtef0"
+          "Value": "tx3ps6h0or"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GmCa/lSLBUKMGaI1kDrBi5Zi+VjoXWd844lwdQzkuao="
+          "Value": "sha256-z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA="
         },
         {
           "Name": "label",
@@ -26697,13 +26697,13 @@
       ]
     },
     {
-      "Route": "_framework/ITTicketingProject.Client.uud37wtef0.wasm",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-uud37wtef0.gz",
+      "Route": "_framework/ITTicketingProject.Client.tx3ps6h0or.wasm",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-tx3ps6h0or.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000021552653"
+          "Quality": "0.000020362037"
         }
       ],
       "ResponseHeaders": [
@@ -26721,15 +26721,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "46397"
+          "Value": "49110"
         },
         {
           "Name": "ETag",
-          "Value": "\"eQCNsIpF+SZH+ZHS7KHxpywi5YDiPsA80A87NthGww8=\""
+          "Value": "\"mjCMpAj8PXbVOydqq+7KqGI3lyhrfKdxEacDabC/ooE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:47 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
         },
         {
           "Name": "Vary",
@@ -26741,17 +26741,17 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GmCa/lSLBUKMGaI1kDrBi5Zi+VjoXWd844lwdQzkuao=\""
+          "Value": "W/\"z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uud37wtef0"
+          "Value": "tx3ps6h0or"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-GmCa/lSLBUKMGaI1kDrBi5Zi+VjoXWd844lwdQzkuao="
+          "Value": "sha256-z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA="
         },
         {
           "Name": "label",
@@ -26760,8 +26760,8 @@
       ]
     },
     {
-      "Route": "_framework/ITTicketingProject.Client.uud37wtef0.wasm.gz",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-uud37wtef0.gz",
+      "Route": "_framework/ITTicketingProject.Client.tx3ps6h0or.wasm.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-tx3ps6h0or.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26778,7 +26778,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "46397"
+          "Value": "49110"
         },
         {
           "Name": "Content-Type",
@@ -26786,11 +26786,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eQCNsIpF+SZH+ZHS7KHxpywi5YDiPsA80A87NthGww8=\""
+          "Value": "\"mjCMpAj8PXbVOydqq+7KqGI3lyhrfKdxEacDabC/ooE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:47 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
         },
         {
           "Name": "Vary",
@@ -26800,11 +26800,11 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "uud37wtef0"
+          "Value": "tx3ps6h0or"
         },
         {
           "Name": "integrity",
-          "Value": "sha256-eQCNsIpF+SZH+ZHS7KHxpywi5YDiPsA80A87NthGww8="
+          "Value": "sha256-mjCMpAj8PXbVOydqq+7KqGI3lyhrfKdxEacDabC/ooE="
         },
         {
           "Name": "label",
@@ -26827,7 +26827,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "130325"
+          "Value": "141077"
         },
         {
           "Name": "Content-Type",
@@ -26835,28 +26835,28 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"GmCa/lSLBUKMGaI1kDrBi5Zi+VjoXWd844lwdQzkuao=\""
+          "Value": "\"z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:46 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:53 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GmCa/lSLBUKMGaI1kDrBi5Zi+VjoXWd844lwdQzkuao="
+          "Value": "sha256-z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA="
         }
       ]
     },
     {
       "Route": "_framework/ITTicketingProject.Client.wasm",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-uud37wtef0.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-tx3ps6h0or.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000021552653"
+          "Quality": "0.000020362037"
         }
       ],
       "ResponseHeaders": [
@@ -26874,15 +26874,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "46397"
+          "Value": "49110"
         },
         {
           "Name": "ETag",
-          "Value": "\"eQCNsIpF+SZH+ZHS7KHxpywi5YDiPsA80A87NthGww8=\""
+          "Value": "\"mjCMpAj8PXbVOydqq+7KqGI3lyhrfKdxEacDabC/ooE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:47 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
         },
         {
           "Name": "Vary",
@@ -26894,19 +26894,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"GmCa/lSLBUKMGaI1kDrBi5Zi+VjoXWd844lwdQzkuao=\""
+          "Value": "W/\"z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-GmCa/lSLBUKMGaI1kDrBi5Zi+VjoXWd844lwdQzkuao="
+          "Value": "sha256-z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA="
         }
       ]
     },
     {
       "Route": "_framework/ITTicketingProject.Client.wasm.gz",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-uud37wtef0.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-tx3ps6h0or.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26923,7 +26923,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "46397"
+          "Value": "49110"
         },
         {
           "Name": "Content-Type",
@@ -26931,11 +26931,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"eQCNsIpF+SZH+ZHS7KHxpywi5YDiPsA80A87NthGww8=\""
+          "Value": "\"mjCMpAj8PXbVOydqq+7KqGI3lyhrfKdxEacDabC/ooE=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:47 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
         },
         {
           "Name": "Vary",
@@ -26945,7 +26945,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-eQCNsIpF+SZH+ZHS7KHxpywi5YDiPsA80A87NthGww8="
+          "Value": "sha256-mjCMpAj8PXbVOydqq+7KqGI3lyhrfKdxEacDabC/ooE="
         }
       ]
     },
@@ -94320,7 +94320,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"0BW5p1LT7Cm6YfmoVBWv8zqx/DrmUpUmNmvSkoTWvNw=\""
+          "Value": "\"T2n0ctb262Gh3EiSGMZgxtJcshEzVR1WkUzoXsg3Qug=\""
         },
         {
           "Name": "Last-Modified",
@@ -94330,18 +94330,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0BW5p1LT7Cm6YfmoVBWv8zqx/DrmUpUmNmvSkoTWvNw="
+          "Value": "sha256-T2n0ctb262Gh3EiSGMZgxtJcshEzVR1WkUzoXsg3Qug="
         }
       ]
     },
     {
       "Route": "../Server/wwwroot/service-worker.js",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Server\\obj\\Debug\\net9.0\\compressed\\s9o7qes82m-wovznej7tz.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Server\\obj\\Debug\\net9.0\\compressed\\s9o7qes82m-lv05jsiwg4.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.004291845494"
+          "Quality": "0.004255319149"
         }
       ],
       "ResponseHeaders": [
@@ -94351,15 +94351,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "232"
+          "Value": "234"
         },
         {
           "Name": "ETag",
-          "Value": "\"+uje7O4+7u3Hhh/htznaQHbseB/SlmlqnynJbpNrq8E=\""
+          "Value": "\"xoCO73s23Kslrv7oAcODHpI8ZCZsr4bgP8rjeTGe+eI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:46 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -94379,19 +94379,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"0BW5p1LT7Cm6YfmoVBWv8zqx/DrmUpUmNmvSkoTWvNw=\""
+          "Value": "W/\"T2n0ctb262Gh3EiSGMZgxtJcshEzVR1WkUzoXsg3Qug=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-0BW5p1LT7Cm6YfmoVBWv8zqx/DrmUpUmNmvSkoTWvNw="
+          "Value": "sha256-T2n0ctb262Gh3EiSGMZgxtJcshEzVR1WkUzoXsg3Qug="
         }
       ]
     },
     {
       "Route": "../Server/wwwroot/service-worker.js.gz",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Server\\obj\\Debug\\net9.0\\compressed\\s9o7qes82m-wovznej7tz.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Server\\obj\\Debug\\net9.0\\compressed\\s9o7qes82m-lv05jsiwg4.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -94400,7 +94400,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "232"
+          "Value": "234"
         },
         {
           "Name": "Content-Type",
@@ -94408,11 +94408,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+uje7O4+7u3Hhh/htznaQHbseB/SlmlqnynJbpNrq8E=\""
+          "Value": "\"xoCO73s23Kslrv7oAcODHpI8ZCZsr4bgP8rjeTGe+eI=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:46 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -94430,7 +94430,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+uje7O4+7u3Hhh/htznaQHbseB/SlmlqnynJbpNrq8E="
+          "Value": "sha256-xoCO73s23Kslrv7oAcODHpI8ZCZsr4bgP8rjeTGe+eI="
         }
       ]
     },
@@ -95658,7 +95658,7 @@
     },
     {
       "Route": "service-worker-assets.js",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\halv0cm7cb-ipezrcaxen.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\halv0cm7cb-gmyjjn3afg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
@@ -95685,11 +95685,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u1//DOkWCZG7+Yr+9N/G57XgfKpAvgF3vHjdqqCd7Rw=\""
+          "Value": "\"FryMW1/ucvnCIdp/yaVQuZsmrpHpeqK2CmPVtilC5T4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:46 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
         },
         {
           "Name": "Vary",
@@ -95701,13 +95701,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"yj+cWw/rP67fysIoYytp0EwrSeOwWtoiQYx3UdHI2q8=\""
+          "Value": "W/\"+Gqr/PftGH7LHr2cNdA/lX9olzuUuapghcTAG8aDEro=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yj+cWw/rP67fysIoYytp0EwrSeOwWtoiQYx3UdHI2q8="
+          "Value": "sha256-+Gqr/PftGH7LHr2cNdA/lX9olzuUuapghcTAG8aDEro="
         }
       ]
     },
@@ -95734,23 +95734,23 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"yj+cWw/rP67fysIoYytp0EwrSeOwWtoiQYx3UdHI2q8=\""
+          "Value": "\"+Gqr/PftGH7LHr2cNdA/lX9olzuUuapghcTAG8aDEro=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:46 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-yj+cWw/rP67fysIoYytp0EwrSeOwWtoiQYx3UdHI2q8="
+          "Value": "sha256-+Gqr/PftGH7LHr2cNdA/lX9olzuUuapghcTAG8aDEro="
         }
       ]
     },
     {
       "Route": "service-worker-assets.js.gz",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\halv0cm7cb-ipezrcaxen.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\halv0cm7cb-gmyjjn3afg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -95775,11 +95775,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"u1//DOkWCZG7+Yr+9N/G57XgfKpAvgF3vHjdqqCd7Rw=\""
+          "Value": "\"FryMW1/ucvnCIdp/yaVQuZsmrpHpeqK2CmPVtilC5T4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 29 Apr 2025 20:53:46 GMT"
+          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
         },
         {
           "Name": "Vary",
@@ -95789,7 +95789,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-u1//DOkWCZG7+Yr+9N/G57XgfKpAvgF3vHjdqqCd7Rw="
+          "Value": "sha256-FryMW1/ucvnCIdp/yaVQuZsmrpHpeqK2CmPVtilC5T4="
         }
       ]
     },

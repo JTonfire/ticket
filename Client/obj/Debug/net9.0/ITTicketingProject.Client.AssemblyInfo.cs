@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ITTicketingProject.Client")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e19bfd510e6f9f340c8f823305b93edee15978c0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26b70479c69a25796ee63b5bebd7258300fb676c")]
 [assembly: System.Reflection.AssemblyProductAttribute("ITTicketingProject.Client")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ITTicketingProject.Client")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

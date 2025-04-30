@@ -49,15 +49,15 @@ namespace ITTicketingProject.Client.Pages
         {
             
             var result = await DBService.GetTickets(
-    filter: $@"Owner eq '{Security.User.Name}' and Owner ne '{null}'",
-    orderby: $@"TicketId desc",
-    expand: "", 
-    top: null,   
-    skip: null, 
-    count: false,
-    format: null,
-    select: "TicketId,AffectedUser,Description,Location,Status,Owner"
-); 
+            filter: $@"Owner eq '{Security.User.Name}' and Owner ne '{null}'",
+            orderby: $@"TicketId desc",
+            expand: "", 
+            top: null,   
+            skip: null, 
+            count: false,
+            format: null,
+            select: "TicketId,AffectedUser,Description,Location,Status,Owner"
+            ); 
 
             
             
@@ -65,5 +65,31 @@ namespace ITTicketingProject.Client.Pages
             StateHasChanged();
         
         }
+    
+
+        protected async Task RowSelect(ITTicketingProject.Server.Models.TicketingDB.Ticket ticket)
+            {
+                await DialogService.OpenAsync<EditTicket>("Edit Ticket", new Dictionary<string, object>{ {"Tid", ticket.TicketId} });
+                
+                //Dialog to edit specific user
+                
+                var result = await DBService.GetTickets(
+                filter: $@"Owner eq '{Security.User.Name}' and Owner ne '{null}'",
+                orderby: $@"TicketId desc",
+                expand: "", 
+                top: null,   
+                skip: null, 
+                count: false,
+                format: null,
+                select: "TicketId,AffectedUser,Description,Location,Status,Owner"
+                ); 
+
+                
+                
+                tickets = result.Value;
+                StateHasChanged();
+
+             
+            }
     }
 }

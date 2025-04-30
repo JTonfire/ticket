@@ -1,6 +1,6 @@
 @page "/create--ticket--user"
 
-@attribute [Authorize(Roles="user")]
+@attribute [Authorize(Roles="user,admin")]
 
 <PageTitle>Create Ticket User</PageTitle>
 
@@ -8,35 +8,35 @@
         <RadzenTemplateForm TItem="ITTicketingProject.Server.Models.TicketingDB.Ticket" Data="@ticket" Submit="@Button0Click">
            
             
-             <RadzenRow style="margin-bottom: 1rem">
-                <RadzenColumn SizeMD="3">
-                    <RadzenLabel Component="AffectedUser" style="width: 100%" Text="Affected User" />
+             <RadzenRow Style="margin-top: 100px; margin-bottom: 100px">
+                <RadzenColumn SizeMD="3" JustifyContent="JustifyContent.Center" Style="float: none">
+                    <RadzenLabel Component="AffectedUser" style="width: 100%; font-size: 25px" Text="Affected User" />
                 </RadzenColumn>
                 <RadzenColumn SizeMD="9">
-                     <RadzenTextBox style="display: block; width: 100%" @bind-Value="@(ticket.AffectedUser)" Name="AffectedUser" />
-                    <RadzenRequiredValidator Component="AffectedUser" Text="Affected user is required" />
+                    <RadzenDropDownDataGrid Style = "display: block; width: 100%; height: 100px; font-size: 50px" Name="AffectedUser" TValue="string" Data="@user" ValueChanged="@(args => ticket.AffectedUser = args)" TextProperty="Name" ValueProperty="UserName"></RadzenDropDownDataGrid>
+                    <RadzenRequiredValidator Component="AffectedUser" Text="Affected user is required" Style="font-size: 25px" />
                 </RadzenColumn>
             </RadzenRow>
-             <RadzenRow style="margin-bottom: 1rem">
-                <RadzenColumn SizeMD="3">
-                    <RadzenLabel Component="Description" style="width: 100%" Text="Description" />
+             <RadzenRow style="margin-bottom: 1rem; margin-top: 100px; margin-bottom: 100px">
+                <RadzenColumn SizeMD="3" JustifyContent="JustifyContent.Center">
+                    <RadzenLabel Component="Description" style="width: 100%; font-size: 25px" Text="Description"/>
                 </RadzenColumn>
                 <RadzenColumn SizeMD="9">
-                    <RadzenTextBox style="display: block; width: 100%" @bind-Value="@(ticket.Description)" Name="Description" />
-                    <RadzenRequiredValidator Component="Description" Text="Description is required" />
+                    <RadzenTextBox style="display: block; width: 100%; height: 100px; font-size: 50px" @bind-Value="@(ticket.Description)" Name="Description" />
+                    <RadzenRequiredValidator Component="Description" Text="Description is required" Style="font-size: 25px"/>
                 </RadzenColumn>
             </RadzenRow>
-            <RadzenRow style="margin-bottom: 1rem">
-                <RadzenColumn SizeMD="3">
-                    <RadzenLabel Component="Location" style="width: 100%" Text="Location" />
+            <RadzenRow style="margin-bottom: 1rem; margin-top: 100px; margin-bottom: 100px">
+                <RadzenColumn SizeMD="3" JustifyContent="JustifyContent.Center">
+                    <RadzenLabel Component="Location" style="width: width: 100%; font-size: 25px%" Text="Location"/>
                 </RadzenColumn>
                 <RadzenColumn SizeMD="9">
-                    <RadzenTextBox style="display: block; width: 100%" @bind-Value="@(ticket.Location)" Name="Location" />
-                    <RadzenRequiredValidator Component="Location" Text="Location is required" />
+                    <RadzenTextBox style="display: block; width: 100%; height: 100px; font-size: 50px" @bind-Value="@(ticket.Location)" Name="Location" />
+                    <RadzenRequiredValidator Component="Location" Text="Location is required" Style="font-size: 25px"/>
                 </RadzenColumn>
             </RadzenRow>
-            <RadzenStack Orientation="Orientation.Horizontal" AlignItems="AlignItems.Center" JustifyContent="JustifyContent.End" Gap="0.5rem">
-                    <RadzenButton ButtonType="ButtonType.Submit" Icon="save" Text="Save" Variant="Variant.Flat" />
+            <RadzenStack Orientation="Orientation.Horizontal" AlignItems="AlignItems.Center" JustifyContent="JustifyContent.Center" Gap="0.5rem">
+                    <RadzenButton ButtonType="ButtonType.Submit" Icon="save" Text="Save" Variant="Variant.Flat" Style="width: 145px; height: 71px; font-size: 25px" />
             </RadzenStack>
         </RadzenTemplateForm>
 </RadzenColumn>

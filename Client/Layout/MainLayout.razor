@@ -4,14 +4,14 @@
 
 <RadzenLayout style="grid-template-areas: 'rz-sidebar rz-header' 'rz-sidebar rz-body';">
     <RadzenHeader>
-        <RadzenRow JustifyContent="JustifyContent.Start" AlignItems="AlignItems.Center" Gap="0">
+        <RadzenRow JustifyContent="JustifyContent.Start" AlignItems="AlignItems.Center" Gap="0" Style="height: 75px">
             <RadzenColumn Size="5">
-                <RadzenSidebarToggle Click="@SidebarToggleClick"></RadzenSidebarToggle>
+                <RadzenSidebarToggle Click="@SidebarToggleClick" Visible="false" Style="visibility: visible"></RadzenSidebarToggle>
             </RadzenColumn>
             <RadzenColumn Size="7">
                 <RadzenStack AlignItems="AlignItems.Center" Orientation="Orientation.Horizontal" JustifyContent="JustifyContent.End" Gap="0.5rem" class="rz-px-2">
                     <RadzenAppearanceToggle />
-                    <RadzenProfileMenu Visible="@Security.IsAuthenticated()" Click="@ProfileMenuClick">
+                    <RadzenProfileMenu Visible="@Security.IsAuthenticated()" Click="@ProfileMenuClick" Style="font-size: 25px">
                         <ChildContent>
 
                             <RadzenProfileMenuItem Path="profile" Icon="settings" Text="Profile" />
@@ -40,9 +40,9 @@
             <RadzenImage Path="images/logo.png"  style="width: 48px; height: 48px;" AlternateText="Application logo"></RadzenImage>
             <RadzenText Text="IT Ticketing Project" TextStyle="Radzen.Blazor.TextStyle.Subtitle1" class="rz-mb-0" style="color: var(--rz-sidebar-color);" />
         </RadzenStack>
-        <RadzenPanelMenu>
+        <RadzenPanelMenu Style="font-size: 35px">
             <RadzenPanelMenuItem Text="Home" Path="" />
-            <RadzenPanelMenuItem Text="Create Ticket User" Path="create--ticket--user" />
+            <RadzenPanelMenuItem Text="Create Ticket" Path="create--ticket--user" />
         </RadzenPanelMenu>
         <RadzenStack AlignItems="Radzen.AlignItems.Center" Gap="0" class="rz-py-4 rz-py-lg-6" Style="padding: var(--rz-panel-menu-item-padding);">
             <RadzenText Text="IT Ticketing Project v1.0.0" TextStyle="Radzen.Blazor.TextStyle.Caption" TagName="Radzen.Blazor.TagName.P" TextAlign="Radzen.TextAlign.Center" />

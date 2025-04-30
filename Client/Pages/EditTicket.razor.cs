@@ -8,13 +8,10 @@ using Microsoft.AspNetCore.Components.Web;
 using Radzen;
 using Radzen.Blazor;
 
-
-
 namespace ITTicketingProject.Client.Pages
 {
-    public partial class CreateTicketUser
+    public partial class EditTicket
     {
-        //Injections
         [Inject]
         protected IJSRuntime JSRuntime { get; set; }
 
@@ -34,51 +31,54 @@ namespace ITTicketingProject.Client.Pages
         protected NotificationService NotificationService { get; set; }
 
         [Inject]
-        protected SecurityService Security { get; set;}
+        protected SecurityService Security { get; set; }
 
         [Inject]
         protected TicketingDBService DBService {get; set;}
 
-        //Ticket variable to hold ticket information for new ticket
+        [Parameter]
+        public int Tid { get; set; }
+
         protected ITTicketingProject.Server.Models.TicketingDB.Ticket ticket;
-
-      
-        
-
 
         protected IEnumerable<ITTicketingProject.Server.Models.ApplicationUser> user;
 
-        //When page loads make a new ticket
+        //Error string
+        protected string error;
+        //Boolean to make error components visable
+        protected bool errorVisible;
+
         protected override async Task OnInitializedAsync()
         {
-            ticket = new Server.Models.TicketingDB.Ticket();
+            ticket = await DBService.GetTicketByTicketId("",Tid);
 
             user = await Security.GetUsers();
-            
-            
-            
         }
 
         //When the submit button is clicked get all information then push it to DB
         protected async Task Button0Click(ITTicketingProject.Server.Models.TicketingDB.Ticket ticket)
         {
-            //Default Ticket Info
-            Console.WriteLine("Test");
-            Console.WriteLine(ticket.AffectedUser);
-            ticket.Status = "Open";
-            ticket.Owner = null;
-            ticket.TicketId = 0;
             
             
+            try
+            {
+                //Wait for the DB to create the new ticket
+                await DBService.UpdateTicket(Tid, ticket);
+
+                Console.WriteLine("Test");
+
+                DialogService.Close(null);
+            }
+            //Exeception
+            catch (Exception ex)
+            {
+                errorVisible = true;
+                error = ex.Message;
+            }
             
-            
-            //Wait for the DB to create the new ticket
-            await DBService.CreateTicket(ticket);
 
             
              
         }
-
-        
     }
 }
