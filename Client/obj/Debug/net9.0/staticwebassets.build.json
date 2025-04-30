@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "0rYEqenU3RsKFMwrOLSCHKVCyXLqiyq58FfaB19vcQs=",
+  "Hash": "aCBhkQjICREjVCEmKyiI+ILyNTOkSiTOBS2Mj3Aw2zo=",
   "Source": "ITTicketingProject.Client",
   "BasePath": "/",
   "Mode": "Default",
@@ -968,8 +968,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "manifest",
-      "Fingerprint": "hy2p5nes7q",
-      "Integrity": "x2Po4ABaMG+C1ldlNgtEgHA5/fLSJUG7ePlil5Kk8ME=",
+      "Fingerprint": "d16dz024qg",
+      "Integrity": "L32kcP3/JBTODQU0qB6xUBsvNWASZIyXHDj6T705VRY=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\blazor.boot.json"
@@ -1409,8 +1409,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "symbol",
-      "Fingerprint": "o4i0gwbvjr",
-      "Integrity": "yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM=",
+      "Fingerprint": "se7q0h3b81",
+      "Integrity": "BHw9GD9qgoUrZY2Eq/L6klRCA4dy76IIL2aYEJ1cimQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\ITTicketingProject.Client.pdb"
@@ -1430,8 +1430,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "WasmResource",
       "AssetTraitValue": "runtime",
-      "Fingerprint": "tx3ps6h0or",
-      "Integrity": "z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA=",
+      "Fingerprint": "j9xj02slu8",
+      "Integrity": "2YidVIlwd6XocM9m+V5NNz+hbFOd3YXzlsJ5gEKKElg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\webcil\\ITTicketingProject.Client.wasm"
@@ -6645,12 +6645,12 @@
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Transactions.Local.wasm"
     },
     {
-      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-o4i0gwbvjr.gz",
+      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-se7q0h3b81.gz",
       "SourceId": "ITTicketingProject.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ITTicketingProject.Client#[.{fingerprint=o4i0gwbvjr}]!.pdb.gz",
+      "RelativePath": "_framework/ITTicketingProject.Client#[.{fingerprint=se7q0h3b81}]!.pdb.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6659,19 +6659,19 @@
       "RelatedAsset": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ITTicketingProject.Client.pdb",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "hniw2q1cw2",
-      "Integrity": "k98OJbVMBYDrYS7erCpw1EOj3CBE2wMrkHxk9BEjU58=",
+      "Fingerprint": "n9l95jsqz1",
+      "Integrity": "FZuvJo5QSISH0hWS3w8AzZJN+nj2CjI6oaDzRYby9lg=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ITTicketingProject.Client.pdb"
     },
     {
-      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-tx3ps6h0or.gz",
+      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-j9xj02slu8.gz",
       "SourceId": "ITTicketingProject.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "/",
-      "RelativePath": "_framework/ITTicketingProject.Client#[.{fingerprint=tx3ps6h0or}]!.wasm.gz",
+      "RelativePath": "_framework/ITTicketingProject.Client#[.{fingerprint=j9xj02slu8}]!.wasm.gz",
       "AssetKind": "Build",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -6680,8 +6680,8 @@
       "RelatedAsset": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ITTicketingProject.Client.wasm",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "avgk5yl4id",
-      "Integrity": "mjCMpAj8PXbVOydqq+7KqGI3lyhrfKdxEacDabC/ooE=",
+      "Fingerprint": "k5xmqz3aky",
+      "Integrity": "WMfmZzx057Q6hn8YW2QJq3RogNuaoGJeieAF5Bu3jT4=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ITTicketingProject.Client.wasm"
@@ -6813,7 +6813,7 @@
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\System.Runtime.InteropServices.JavaScript.wasm"
     },
     {
-      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\4bva9xy48x-hy2p5nes7q.gz",
+      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\4bva9xy48x-d16dz024qg.gz",
       "SourceId": "ITTicketingProject.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\",
@@ -6827,8 +6827,8 @@
       "RelatedAsset": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "l3glzz8zkx",
-      "Integrity": "PwzYzXJzH4OwQJD4WQRKDThuY+S76BsCAvBiBW7RHIU=",
+      "Fingerprint": "zkxi5df192",
+      "Integrity": "gyN5rW6Lc58JvcKr8KFfVHGiPgDrpaA+xBk38rpLxo8=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\blazor.boot.json"
@@ -8850,7 +8850,7 @@
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\.nuget\\packages\\radzen.blazor\\6.6.4\\staticwebassets\\css\\material3.css"
     },
     {
-      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\halv0cm7cb-gmyjjn3afg.gz",
+      "Identity": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\halv0cm7cb-qeo2ivsgrp.gz",
       "SourceId": "ITTicketingProject.Client",
       "SourceType": "Computed",
       "ContentRoot": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\",
@@ -8864,8 +8864,8 @@
       "RelatedAsset": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "ef4a3z8lrv",
-      "Integrity": "FryMW1/ucvnCIdp/yaVQuZsmrpHpeqK2CmPVtilC5T4=",
+      "Fingerprint": "opi8zrgvvl",
+      "Integrity": "ROALgzZ0pd6QjJU8q8iDIkm7H1ctWHtGRv6yAbOJLi0=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build"
@@ -12308,8 +12308,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerManifest",
-      "Fingerprint": "gmyjjn3afg",
-      "Integrity": "+Gqr/PftGH7LHr2cNdA/lX9olzuUuapghcTAG8aDEro=",
+      "Fingerprint": "qeo2ivsgrp",
+      "Integrity": "7ikuIP7Mfsn2W/uNVmgqUlykHHV8a/hSwLZZOcHOwcQ=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "obj\\Debug\\net9.0\\service-worker\\service-worker-assets.js.build"
@@ -12329,8 +12329,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "BlazorServiceWorker",
       "AssetTraitValue": "ServiceWorkerJs",
-      "Fingerprint": "lv05jsiwg4",
-      "Integrity": "T2n0ctb262Gh3EiSGMZgxtJcshEzVR1WkUzoXsg3Qug=",
+      "Fingerprint": "9rsnfajnns",
+      "Integrity": "VbiYgDn7s3RmuJf2bLRdwqgrP7FPFUSLIpLH76hwSZk=",
       "CopyToOutputDirectory": "PreserveNewest",
       "CopyToPublishDirectory": "Never",
       "OriginalItemSpec": "../Server/wwwroot/service-worker.js"
@@ -20101,11 +20101,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"x2Po4ABaMG+C1ldlNgtEgHA5/fLSJUG7ePlil5Kk8ME=\""
+          "Value": "\"L32kcP3/JBTODQU0qB6xUBsvNWASZIyXHDj6T705VRY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
+          "Value": "Wed, 30 Apr 2025 19:51:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20115,18 +20115,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-x2Po4ABaMG+C1ldlNgtEgHA5/fLSJUG7ePlil5Kk8ME="
+          "Value": "sha256-L32kcP3/JBTODQU0qB6xUBsvNWASZIyXHDj6T705VRY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\4bva9xy48x-hy2p5nes7q.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\4bva9xy48x-d16dz024qg.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000066480521"
+          "Quality": "0.000066476102"
         }
       ],
       "ResponseHeaders": [
@@ -20136,15 +20136,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15041"
+          "Value": "15042"
         },
         {
           "Name": "ETag",
-          "Value": "\"PwzYzXJzH4OwQJD4WQRKDThuY+S76BsCAvBiBW7RHIU=\""
+          "Value": "\"gyN5rW6Lc58JvcKr8KFfVHGiPgDrpaA+xBk38rpLxo8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:40:15 GMT"
+          "Value": "Wed, 30 Apr 2025 19:37:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20164,19 +20164,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"x2Po4ABaMG+C1ldlNgtEgHA5/fLSJUG7ePlil5Kk8ME=\""
+          "Value": "W/\"L32kcP3/JBTODQU0qB6xUBsvNWASZIyXHDj6T705VRY=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-x2Po4ABaMG+C1ldlNgtEgHA5/fLSJUG7ePlil5Kk8ME="
+          "Value": "sha256-L32kcP3/JBTODQU0qB6xUBsvNWASZIyXHDj6T705VRY="
         }
       ]
     },
     {
       "Route": "_framework/blazor.boot.json.gz",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\4bva9xy48x-hy2p5nes7q.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\4bva9xy48x-d16dz024qg.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -20185,7 +20185,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "15041"
+          "Value": "15042"
         },
         {
           "Name": "Content-Type",
@@ -20193,11 +20193,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"PwzYzXJzH4OwQJD4WQRKDThuY+S76BsCAvBiBW7RHIU=\""
+          "Value": "\"gyN5rW6Lc58JvcKr8KFfVHGiPgDrpaA+xBk38rpLxo8=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:40:15 GMT"
+          "Value": "Wed, 30 Apr 2025 19:37:03 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -20215,7 +20215,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-PwzYzXJzH4OwQJD4WQRKDThuY+S76BsCAvBiBW7RHIU="
+          "Value": "sha256-gyN5rW6Lc58JvcKr8KFfVHGiPgDrpaA+xBk38rpLxo8="
         }
       ]
     },
@@ -26019,305 +26019,7 @@
       ]
     },
     {
-      "Route": "_framework/ITTicketingProject.Client.o4i0gwbvjr.pdb",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ITTicketingProject.Client.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "90256"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:58:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "o4i0gwbvjr"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ITTicketingProject.Client.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ITTicketingProject.Client.o4i0gwbvjr.pdb",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-o4i0gwbvjr.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000014622235"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "68388"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"k98OJbVMBYDrYS7erCpw1EOj3CBE2wMrkHxk9BEjU58=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "o4i0gwbvjr"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ITTicketingProject.Client.pdb"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ITTicketingProject.Client.o4i0gwbvjr.pdb.gz",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-o4i0gwbvjr.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "68388"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"k98OJbVMBYDrYS7erCpw1EOj3CBE2wMrkHxk9BEjU58=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "o4i0gwbvjr"
-        },
-        {
-          "Name": "label",
-          "Value": "_framework/ITTicketingProject.Client.pdb.gz"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-k98OJbVMBYDrYS7erCpw1EOj3CBE2wMrkHxk9BEjU58="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ITTicketingProject.Client.pdb",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ITTicketingProject.Client.pdb",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "90256"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:58:53 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ITTicketingProject.Client.pdb",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-o4i0gwbvjr.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.000014622235"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "68388"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"k98OJbVMBYDrYS7erCpw1EOj3CBE2wMrkHxk9BEjU58=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM=\""
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-yFstUdRRZj8iZ37galDnzOXna2B1mutHTQ1wvPHBsZM="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ITTicketingProject.Client.pdb.gz",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-o4i0gwbvjr.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "68388"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "application/octet-stream"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"k98OJbVMBYDrYS7erCpw1EOj3CBE2wMrkHxk9BEjU58=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-k98OJbVMBYDrYS7erCpw1EOj3CBE2wMrkHxk9BEjU58="
-        }
-      ]
-    },
-    {
-      "Route": "_framework/ITTicketingProject.Client.tx3ps6h0or.wasm",
+      "Route": "_framework/ITTicketingProject.Client.j9xj02slu8.wasm",
       "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ITTicketingProject.Client.wasm",
       "Selectors": [],
       "ResponseHeaders": [
@@ -26327,7 +26029,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "141077"
+          "Value": "147221"
         },
         {
           "Name": "Content-Type",
@@ -26335,11 +26037,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA=\""
+          "Value": "\"2YidVIlwd6XocM9m+V5NNz+hbFOd3YXzlsJ5gEKKElg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:58:53 GMT"
+          "Value": "Wed, 30 Apr 2025 19:51:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26349,7 +26051,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tx3ps6h0or"
+          "Value": "j9xj02slu8"
         },
         {
           "Name": "label",
@@ -26357,18 +26059,18 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA="
+          "Value": "sha256-2YidVIlwd6XocM9m+V5NNz+hbFOd3YXzlsJ5gEKKElg="
         }
       ]
     },
     {
-      "Route": "_framework/ITTicketingProject.Client.tx3ps6h0or.wasm",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-tx3ps6h0or.gz",
+      "Route": "_framework/ITTicketingProject.Client.j9xj02slu8.wasm",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-j9xj02slu8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000020362037"
+          "Quality": "0.000019596316"
         }
       ],
       "ResponseHeaders": [
@@ -26378,15 +26080,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "49110"
+          "Value": "51029"
         },
         {
           "Name": "ETag",
-          "Value": "\"mjCMpAj8PXbVOydqq+7KqGI3lyhrfKdxEacDabC/ooE=\""
+          "Value": "\"WMfmZzx057Q6hn8YW2QJq3RogNuaoGJeieAF5Bu3jT4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
+          "Value": "Wed, 30 Apr 2025 19:51:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26406,13 +26108,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA=\""
+          "Value": "W/\"2YidVIlwd6XocM9m+V5NNz+hbFOd3YXzlsJ5gEKKElg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tx3ps6h0or"
+          "Value": "j9xj02slu8"
         },
         {
           "Name": "label",
@@ -26420,13 +26122,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA="
+          "Value": "sha256-2YidVIlwd6XocM9m+V5NNz+hbFOd3YXzlsJ5gEKKElg="
         }
       ]
     },
     {
-      "Route": "_framework/ITTicketingProject.Client.tx3ps6h0or.wasm.gz",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-tx3ps6h0or.gz",
+      "Route": "_framework/ITTicketingProject.Client.j9xj02slu8.wasm.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-j9xj02slu8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26435,7 +26137,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "49110"
+          "Value": "51029"
         },
         {
           "Name": "Content-Type",
@@ -26443,11 +26145,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mjCMpAj8PXbVOydqq+7KqGI3lyhrfKdxEacDabC/ooE=\""
+          "Value": "\"WMfmZzx057Q6hn8YW2QJq3RogNuaoGJeieAF5Bu3jT4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
+          "Value": "Wed, 30 Apr 2025 19:51:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26465,7 +26167,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "tx3ps6h0or"
+          "Value": "j9xj02slu8"
         },
         {
           "Name": "label",
@@ -26473,7 +26175,305 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-mjCMpAj8PXbVOydqq+7KqGI3lyhrfKdxEacDabC/ooE="
+          "Value": "sha256-WMfmZzx057Q6hn8YW2QJq3RogNuaoGJeieAF5Bu3jT4="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ITTicketingProject.Client.pdb",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ITTicketingProject.Client.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BHw9GD9qgoUrZY2Eq/L6klRCA4dy76IIL2aYEJ1cimQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:51:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BHw9GD9qgoUrZY2Eq/L6klRCA4dy76IIL2aYEJ1cimQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ITTicketingProject.Client.pdb",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-se7q0h3b81.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000014238321"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70232"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FZuvJo5QSISH0hWS3w8AzZJN+nj2CjI6oaDzRYby9lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:51:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BHw9GD9qgoUrZY2Eq/L6klRCA4dy76IIL2aYEJ1cimQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BHw9GD9qgoUrZY2Eq/L6klRCA4dy76IIL2aYEJ1cimQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ITTicketingProject.Client.pdb.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-se7q0h3b81.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FZuvJo5QSISH0hWS3w8AzZJN+nj2CjI6oaDzRYby9lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:51:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FZuvJo5QSISH0hWS3w8AzZJN+nj2CjI6oaDzRYby9lg="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ITTicketingProject.Client.se7q0h3b81.pdb",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\bin\\Debug\\net9.0\\wwwroot\\_framework\\ITTicketingProject.Client.pdb",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "92428"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BHw9GD9qgoUrZY2Eq/L6klRCA4dy76IIL2aYEJ1cimQ=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:51:49 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "se7q0h3b81"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ITTicketingProject.Client.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BHw9GD9qgoUrZY2Eq/L6klRCA4dy76IIL2aYEJ1cimQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ITTicketingProject.Client.se7q0h3b81.pdb",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-se7q0h3b81.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000014238321"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70232"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FZuvJo5QSISH0hWS3w8AzZJN+nj2CjI6oaDzRYby9lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:51:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"BHw9GD9qgoUrZY2Eq/L6klRCA4dy76IIL2aYEJ1cimQ=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "se7q0h3b81"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ITTicketingProject.Client.pdb"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BHw9GD9qgoUrZY2Eq/L6klRCA4dy76IIL2aYEJ1cimQ="
+        }
+      ]
+    },
+    {
+      "Route": "_framework/ITTicketingProject.Client.se7q0h3b81.pdb.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2nep9l5qym-se7q0h3b81.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "70232"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "application/octet-stream"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FZuvJo5QSISH0hWS3w8AzZJN+nj2CjI6oaDzRYby9lg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 30 Apr 2025 19:51:50 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "se7q0h3b81"
+        },
+        {
+          "Name": "label",
+          "Value": "_framework/ITTicketingProject.Client.pdb.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FZuvJo5QSISH0hWS3w8AzZJN+nj2CjI6oaDzRYby9lg="
         }
       ]
     },
@@ -26488,7 +26488,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "141077"
+          "Value": "147221"
         },
         {
           "Name": "Content-Type",
@@ -26496,11 +26496,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA=\""
+          "Value": "\"2YidVIlwd6XocM9m+V5NNz+hbFOd3YXzlsJ5gEKKElg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:58:53 GMT"
+          "Value": "Wed, 30 Apr 2025 19:51:49 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26510,18 +26510,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA="
+          "Value": "sha256-2YidVIlwd6XocM9m+V5NNz+hbFOd3YXzlsJ5gEKKElg="
         }
       ]
     },
     {
       "Route": "_framework/ITTicketingProject.Client.wasm",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-tx3ps6h0or.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-j9xj02slu8.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000020362037"
+          "Quality": "0.000019596316"
         }
       ],
       "ResponseHeaders": [
@@ -26531,15 +26531,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "49110"
+          "Value": "51029"
         },
         {
           "Name": "ETag",
-          "Value": "\"mjCMpAj8PXbVOydqq+7KqGI3lyhrfKdxEacDabC/ooE=\""
+          "Value": "\"WMfmZzx057Q6hn8YW2QJq3RogNuaoGJeieAF5Bu3jT4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
+          "Value": "Wed, 30 Apr 2025 19:51:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26559,19 +26559,19 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA=\""
+          "Value": "W/\"2YidVIlwd6XocM9m+V5NNz+hbFOd3YXzlsJ5gEKKElg=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-z5ucXSLrewjXu+kXHlsKSKf0K0+LzYdhT6trdSp3DHA="
+          "Value": "sha256-2YidVIlwd6XocM9m+V5NNz+hbFOd3YXzlsJ5gEKKElg="
         }
       ]
     },
     {
       "Route": "_framework/ITTicketingProject.Client.wasm.gz",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-tx3ps6h0or.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\2oxt2ctsrc-j9xj02slu8.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -26580,7 +26580,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "49110"
+          "Value": "51029"
         },
         {
           "Name": "Content-Type",
@@ -26588,11 +26588,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"mjCMpAj8PXbVOydqq+7KqGI3lyhrfKdxEacDabC/ooE=\""
+          "Value": "\"WMfmZzx057Q6hn8YW2QJq3RogNuaoGJeieAF5Bu3jT4=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
+          "Value": "Wed, 30 Apr 2025 19:51:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -26610,7 +26610,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-mjCMpAj8PXbVOydqq+7KqGI3lyhrfKdxEacDabC/ooE="
+          "Value": "sha256-WMfmZzx057Q6hn8YW2QJq3RogNuaoGJeieAF5Bu3jT4="
         }
       ]
     },
@@ -93981,7 +93981,7 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"T2n0ctb262Gh3EiSGMZgxtJcshEzVR1WkUzoXsg3Qug=\""
+          "Value": "\"VbiYgDn7s3RmuJf2bLRdwqgrP7FPFUSLIpLH76hwSZk=\""
         },
         {
           "Name": "Last-Modified",
@@ -93995,18 +93995,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-T2n0ctb262Gh3EiSGMZgxtJcshEzVR1WkUzoXsg3Qug="
+          "Value": "sha256-VbiYgDn7s3RmuJf2bLRdwqgrP7FPFUSLIpLH76hwSZk="
         }
       ]
     },
     {
       "Route": "service-worker-assets.js",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\halv0cm7cb-gmyjjn3afg.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\halv0cm7cb-qeo2ivsgrp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000068050357"
+          "Quality": "0.000068036468"
         }
       ],
       "ResponseHeaders": [
@@ -94016,15 +94016,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14694"
+          "Value": "14697"
         },
         {
           "Name": "ETag",
-          "Value": "\"FryMW1/ucvnCIdp/yaVQuZsmrpHpeqK2CmPVtilC5T4=\""
+          "Value": "\"ROALgzZ0pd6QjJU8q8iDIkm7H1ctWHtGRv6yAbOJLi0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
+          "Value": "Wed, 30 Apr 2025 19:51:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -94044,13 +94044,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"+Gqr/PftGH7LHr2cNdA/lX9olzuUuapghcTAG8aDEro=\""
+          "Value": "W/\"7ikuIP7Mfsn2W/uNVmgqUlykHHV8a/hSwLZZOcHOwcQ=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+Gqr/PftGH7LHr2cNdA/lX9olzuUuapghcTAG8aDEro="
+          "Value": "sha256-7ikuIP7Mfsn2W/uNVmgqUlykHHV8a/hSwLZZOcHOwcQ="
         }
       ]
     },
@@ -94073,11 +94073,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"+Gqr/PftGH7LHr2cNdA/lX9olzuUuapghcTAG8aDEro=\""
+          "Value": "\"7ikuIP7Mfsn2W/uNVmgqUlykHHV8a/hSwLZZOcHOwcQ=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
+          "Value": "Wed, 30 Apr 2025 19:51:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -94087,13 +94087,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-+Gqr/PftGH7LHr2cNdA/lX9olzuUuapghcTAG8aDEro="
+          "Value": "sha256-7ikuIP7Mfsn2W/uNVmgqUlykHHV8a/hSwLZZOcHOwcQ="
         }
       ]
     },
     {
       "Route": "service-worker-assets.js.gz",
-      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\halv0cm7cb-gmyjjn3afg.gz",
+      "AssetFile": "C:\\Users\\JT Frazier\\Documents\\ticket\\Client\\obj\\Debug\\net9.0\\compressed\\halv0cm7cb-qeo2ivsgrp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -94102,7 +94102,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "14694"
+          "Value": "14697"
         },
         {
           "Name": "Content-Type",
@@ -94110,11 +94110,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"FryMW1/ucvnCIdp/yaVQuZsmrpHpeqK2CmPVtilC5T4=\""
+          "Value": "\"ROALgzZ0pd6QjJU8q8iDIkm7H1ctWHtGRv6yAbOJLi0=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Wed, 30 Apr 2025 00:58:54 GMT"
+          "Value": "Wed, 30 Apr 2025 19:51:50 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -94132,7 +94132,7 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-FryMW1/ucvnCIdp/yaVQuZsmrpHpeqK2CmPVtilC5T4="
+          "Value": "sha256-ROALgzZ0pd6QjJU8q8iDIkm7H1ctWHtGRv6yAbOJLi0="
         }
       ]
     }

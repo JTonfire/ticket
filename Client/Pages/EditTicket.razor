@@ -46,13 +46,14 @@
                     <RadzenLabel Component="Status" style="width: 100%" Text="Status" />
                 </RadzenColumn>
                 <RadzenColumn SizeMD="9">
-                    <RadzenTextBox style="display: block; width: 100%" @bind-Value="@(ticket.Status)" Name="Status" />
+                    <RadzenDropDown TItem = "ITTicketingProject.Server.Models.TicketingDB.Ticket" style="display: block; width: 100%" @bind-Value="@(ticket.Status)" Name="Status" Data="@status" />
                     <RadzenRequiredValidator Component="Status" Text="Status is required" />
                 </RadzenColumn>
             </RadzenRow>
             
             <RadzenStack Orientation="Orientation.Horizontal" AlignItems="AlignItems.Center" JustifyContent="JustifyContent.End" Gap="0.5rem">
                     <RadzenButton ButtonType="ButtonType.Submit" Icon="save" Text="Save" Variant="Variant.Flat" />
+                    <RadzenButton ButtonStyle="ButtonStyle.Light" Icon="delete" Text="Delete" Variant="Variant.Flat" ButtonType="Radzen.ButtonType.Button"Click = "@Button1Click"/>
             </RadzenStack>
         </RadzenTemplateForm>
 </RadzenColumn>

@@ -41,31 +41,80 @@ namespace ITTicketingProject.Client.Pages
 
         IEnumerable<ITTicketingProject.Server.Models.TicketingDB.Ticket> tickets;
 
+        IEnumerable<ITTicketingProject.Server.Models.TicketingDB.Ticket> openTickets;
+
 
         protected int count;
+
+        protected bool visable = false;
         
         
         protected override async Task OnInitializedAsync()
         {
+           if(Security.IsInRole(["user", "admin"]))
+           {
+                var result = await DBService.GetTickets(
+                filter: $@"Owner eq '{Security.User.Name}' and Owner ne '{null}'",
+                orderby: $@"TicketId desc",
+                expand: "", 
+                top: null,   
+                skip: null, 
+                count: false,
+                format: null,
+                select: "TicketId,AffectedUser,Description,Location,Status,Owner");
+                tickets = result.Value;
+                StateHasChanged();
+
+                visable = true;
+
+                var resultOpen = await DBService.GetTickets(
+                filter: $@"Status eq 'Open' and Owner eq ''",
+                orderby: $@"TicketId desc",
+                expand: "", 
+                top: null,   
+                skip: null, 
+                count: false,
+                format: null,
+                select: "TicketId,AffectedUser,Description,Location,Status,Owner");
+                openTickets = resultOpen.Value;
+                StateHasChanged();
+                
             
-            var result = await DBService.GetTickets(
-            filter: $@"Owner eq '{Security.User.Name}' and Owner ne '{null}'",
-            orderby: $@"TicketId desc",
-            expand: "", 
-            top: null,   
-            skip: null, 
-            count: false,
-            format: null,
-            select: "TicketId,AffectedUser,Description,Location,Status,Owner"
-            ); 
+            }
+            else{
+                var result = await DBService.GetTickets(
+                    filter: $@"AffectedUser eq '{Security.User.Name}' and Owner ne '{null}'",
+                orderby: $@"TicketId desc",
+                expand: "", 
+                top: null,   
+                skip: null, 
+                count: false,
+                format: null,
+                select: "TicketId,AffectedUser,Description,Location,Status,Owner");
+                tickets = result.Value;
+                StateHasChanged();
+            }
 
             
             
-            tickets = result.Value;
-            StateHasChanged();
+            
         
         }
-    
+
+        protected async Task openRowSelect(ITTicketingProject.Server.Models.TicketingDB.Ticket ticket)
+        {
+            if(await DialogService.Confirm($"Are you sure you want to take ownership of ticket: {ticket.TicketId}?") == true)
+            {
+                ticket.Owner = Security.User.UserName;
+                ticket.Status = "Taken";
+                await DBService.UpdateTicket(ticket.TicketId, ticket);
+                StateHasChanged();
+            }
+            else
+            {
+                DialogService.Close(null);
+            }
+        }
 
         protected async Task RowSelect(ITTicketingProject.Server.Models.TicketingDB.Ticket ticket)
             {

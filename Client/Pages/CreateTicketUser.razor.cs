@@ -42,7 +42,11 @@ namespace ITTicketingProject.Client.Pages
         //Ticket variable to hold ticket information for new ticket
         protected ITTicketingProject.Server.Models.TicketingDB.Ticket ticket;
 
-      
+        //Error string
+        protected string error;
+        //Boolean to make error components visable
+        protected bool errorVisible;
+
         
 
 
@@ -66,19 +70,24 @@ namespace ITTicketingProject.Client.Pages
             Console.WriteLine("Test");
             Console.WriteLine(ticket.AffectedUser);
             ticket.Status = "Open";
-            ticket.Owner = null;
+            ticket.Owner = "";
             ticket.TicketId = 0;
             
             
             
-            
-            //Wait for the DB to create the new ticket
-            await DBService.CreateTicket(ticket);
+            try{
+                //Wait for the DB to create the new ticket
+                await DBService.CreateTicket(ticket);
+                
 
-            
-             
+                await DialogService.Alert("Ticket Created");
+            }
+             catch (Exception ex)
+            {
+                errorVisible = true;
+                error = ex.Message;
+            }
+
         }
-
-        
     }
 }

@@ -43,6 +43,8 @@ namespace ITTicketingProject.Client.Pages
 
         protected IEnumerable<ITTicketingProject.Server.Models.ApplicationUser> user;
 
+        protected string[] status = ["Open","Taken","Closed"];
+
         //Error string
         protected string error;
         //Boolean to make error components visable
@@ -65,7 +67,7 @@ namespace ITTicketingProject.Client.Pages
                 //Wait for the DB to create the new ticket
                 await DBService.UpdateTicket(Tid, ticket);
 
-                Console.WriteLine("Test");
+                await DialogService.Alert("Ticket Created");
 
                 DialogService.Close(null);
             }
@@ -79,6 +81,27 @@ namespace ITTicketingProject.Client.Pages
 
             
              
+        }
+
+
+        protected async System.Threading.Tasks.Task Button1Click(Microsoft.AspNetCore.Components.Web.MouseEventArgs args)
+        {
+            if (await DialogService.Confirm("Are you sure you want to delete this ticket?") == true)
+                {
+                    try
+                    {
+                        await DBService.DeleteTicket(Tid);
+
+                        await DialogService.Alert("Ticket Deleted");
+                        DialogService.Close(null);
+                        
+                    }
+                    catch (Exception ex)
+                    {
+                        errorVisible = true;
+                        error = ex.Message;
+                    }
+                }
         }
     }
 }

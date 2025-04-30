@@ -21,3 +21,13 @@
         
     </RadzenCard>
 </RadzenRow>
+
+<RadzenDataGrid Data="@openTickets" Style="height: 413px; width: 921px; font-size: 35px; margin-top: 45px; margin-left: 250px" TItem="Server.Models.TicketingDB.Ticket" AllowFiltering="true" Visible = "@visable" RowSelect = "@openRowSelect">
+        <Columns>
+        <RadzenDataGridColumn TItem="Server.Models.TicketingDB.Ticket" Property="TicketId" Title="Ticket ID"></RadzenDataGridColumn>
+        <RadzenDataGridColumn TItem="Server.Models.TicketingDB.Ticket" Property="AffectedUser" Title="Affected User"></RadzenDataGridColumn>
+        <RadzenDataGridColumn TItem="Server.Models.TicketingDB.Ticket" Property="Description" Title="Description"></RadzenDataGridColumn>
+        <RadzenDataGridColumn TItem="Server.Models.TicketingDB.Ticket" Property="Location" Title = "Location"></RadzenDataGridColumn>
+        <RadzenDataGridColumn TItem="Server.Models.TicketingDB.Ticket" Property="Status" Title = "Status"></RadzenDataGridColumn>
+        </Columns>
+</RadzenDataGrid>
